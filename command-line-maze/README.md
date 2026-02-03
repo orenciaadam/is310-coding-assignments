@@ -25,7 +25,8 @@ a different approach.
 - cd ..
 - cat
 - less
--wc -l
+-wc
+-l
 - grep
 
 ## Where to start 
