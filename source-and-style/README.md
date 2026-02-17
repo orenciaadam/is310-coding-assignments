@@ -9,13 +9,13 @@ Building on our groups topic I am using Sports Archive https://www.sportsarchive
 The SportsArchive site uses the standard tools HTML, CSS, and JavaScript to support their page. I confirmed this by inspecting the site and seeing the main page is presented through HTML. They use CSS to handle the style and design of the site. Finally, they use JavaScript files for interactions and functionality on the page.
 
 
-![HTML Document](images/is3101.png)
+![HTML Document](images/is310I1.png)
 
 
-![CSS Files](images/is3102.png)
+![CSS Files](images/is310I2.png)
 
 
-![JavaScript Files](images/is3103.png)
+![JavaScript Files](images/is310I3.png)
 
 ---
 
