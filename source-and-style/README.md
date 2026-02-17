@@ -1,6 +1,7 @@
 # Source and Style Assignment
 
 Building on our groups topic I am using Sports Archive https://www.sportsarchive.net/ as my website.
+For more information on how SportsArchive was developed, visit their GitHub: https://github.com/hayleox/sportsarchive?tab=readme-ov-file
 
 ---
 
