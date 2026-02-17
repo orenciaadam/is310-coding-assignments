@@ -10,12 +10,12 @@ The SportsArchive site uses the standard tools HTML, CSS, and JavaScript to supp
 
 
 
-<img src="images/is310I1.png" width="600">
+<img src="images/is310I1.png" width="400">
 
-<img src="images/is310I2.png" width="600">
+<img src="images/is310I2.png" width="400">
 
 
-<img src="images/is310I3.png" width="600">
+<img src="images/is310I3.png" width="400">
 
 ---
 
