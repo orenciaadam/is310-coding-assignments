@@ -1,0 +1,7847 @@
+{
+  "source": "Data USA + Europeana",
+  "datausa_top_states_2023": [
+    {
+      "State ID": "04000US06",
+      "State": "California",
+      "Year": 2023,
+      "Population": 39242785.0
+    },
+    {
+      "State ID": "04000US48",
+      "State": "Texas",
+      "Year": 2023,
+      "Population": 29640343.0
+    },
+    {
+      "State ID": "04000US12",
+      "State": "Florida",
+      "Year": 2023,
+      "Population": 21928881.0
+    },
+    {
+      "State ID": "04000US36",
+      "State": "New York",
+      "Year": 2023,
+      "Population": 19872319.0
+    },
+    {
+      "State ID": "04000US42",
+      "State": "Pennsylvania",
+      "Year": 2023,
+      "Population": 12986518.0
+    },
+    {
+      "State ID": "04000US17",
+      "State": "Illinois",
+      "Year": 2023,
+      "Population": 12692653.0
+    },
+    {
+      "State ID": "04000US39",
+      "State": "Ohio",
+      "Year": 2023,
+      "Population": 11780046.0
+    },
+    {
+      "State ID": "04000US13",
+      "State": "Georgia",
+      "Year": 2023,
+      "Population": 10822590.0
+    },
+    {
+      "State ID": "04000US37",
+      "State": "North Carolina",
+      "Year": 2023,
+      "Population": 10584340.0
+    },
+    {
+      "State ID": "04000US26",
+      "State": "Michigan",
+      "Year": 2023,
+      "Population": 10051595.0
+    }
+  ],
+  "europeana_results_for_top_state": {
+    "success": true,
+    "requestNumber": 999,
+    "itemsCount": 10,
+    "totalResults": 26892,
+    "nextCursor": "AoE/AS85NjYvZXVyb3BlYW5hX2Zhc2hpb25fNTAwMjEwNDAx",
+    "items": [
+      {
+        "completeness": 10,
+        "country": [
+          "Croatia"
+        ],
+        "dataProvider": [
+          "Museum of Contemporary Art"
+        ],
+        "dcCreator": [
+          "Kelemen, Boris",
+          "Kelemen, Boris"
+        ],
+        "dcCreatorLangAware": {
+          "en": [
+            "Kelemen, Boris"
+          ],
+          "hr": [
+            "Kelemen, Boris"
+          ]
+        },
+        "dcDescription": [
+          "Invitation to participate in T4.",
+          "Poziv za sudjelovanje na T4."
+        ],
+        "dcDescriptionLangAware": {
+          "en": [
+            "Invitation to participate in T4."
+          ],
+          "hr": [
+            "Poziv za sudjelovanje na T4."
+          ]
+        },
+        "dcTitleLangAware": {
+          "en": [
+            "Letter from Boris Kelemen to David L. Anderson (California Computer Products, Inc., Anaheim, California, USA)"
+          ],
+          "hr": [
+            "Pismo Boris Kelemen, za: David L. Anderson (California Computer Products, Inc., Anaheim, Kalifornija, SAD)"
+          ]
+        },
+        "edmConcept": [
+          "http://data.europeana.eu/concept/2909",
+          "https://ekultura.hr/purl/url/6JERJNMZSWR3AJHTH3JVRINPKAOS2CMF",
+          "http://data.europeana.eu/concept/2090"
+        ],
+        "edmConceptLabel": [
+          {
+            "def": "Brief"
+          },
+          {
+            "def": "Papier"
+          },
+          {
+            "def": "Письмо"
+          },
+          {
+            "def": "Бумага"
+          },
+          {
+            "def": "Kirje"
+          },
+          {
+            "def": "Paperi"
+          },
+          {
+            "def": "Carta"
+          },
+          {
+            "def": "Papel"
+          },
+          {
+            "def": "Писмо"
+          },
+          {
+            "def": "Хартия"
+          },
+          {
+            "def": "Laiškas"
+          },
+          {
+            "def": "Popierius"
+          },
+          {
+            "def": "Vēstule"
+          },
+          {
+            "def": "Papīrs"
+          },
+          {
+            "def": "Lettre"
+          },
+          {
+            "def": "Papier"
+          },
+          {
+            "def": "Levél"
+          },
+          {
+            "def": "Papír"
+          },
+          {
+            "def": "List"
+          },
+          {
+            "def": "Papier"
+          },
+          {
+            "def": "Pismo"
+          },
+          {
+            "def": "Papir"
+          },
+          {
+            "def": "Litir"
+          },
+          {
+            "def": "Páipéar"
+          },
+          {
+            "def": "Carta"
+          },
+          {
+            "def": "Paper"
+          },
+          {
+            "def": "Brev"
+          },
+          {
+            "def": "Papper"
+          },
+          {
+            "def": "Επιστολή"
+          },
+          {
+            "def": "Χαρτί"
+          },
+          {
+            "def": "Letter"
+          },
+          {
+            "def": "Paper"
+          },
+          {
+            "def": "Lettera"
+          },
+          {
+            "def": "Carta"
+          },
+          {
+            "def": "Carta"
+          },
+          {
+            "def": "Papel"
+          },
+          {
+            "def": "Kiri"
+          },
+          {
+            "def": "Paber"
+          },
+          {
+            "def": "Dopis"
+          },
+          {
+            "def": "Papír"
+          },
+          {
+            "def": "Eskutitz"
+          },
+          {
+            "def": "Paper"
+          },
+          {
+            "def": "List"
+          },
+          {
+            "def": "Papier"
+          },
+          {
+            "def": "Brev"
+          },
+          {
+            "def": "Papir"
+          },
+          {
+            "def": "Scrisoare"
+          },
+          {
+            "def": "Hârtie"
+          },
+          {
+            "def": "Brief"
+          },
+          {
+            "def": "Papier"
+          },
+          {
+            "def": "Tekstualni dokumenti"
+          },
+          {
+            "def": "Papir"
+          },
+          {
+            "def": "Karta"
+          }
+        ],
+        "edmConceptPrefLabelLangAware": {
+          "de": [
+            "Papier",
+            "Brief"
+          ],
+          "ru": [
+            "Бумага",
+            "Письмо"
+          ],
+          "fi": [
+            "Paperi",
+            "Kirje"
+          ],
+          "pt": [
+            "Papel",
+            "Carta"
+          ],
+          "bg": [
+            "Хартия",
+            "Писмо"
+          ],
+          "lt": [
+            "Popierius",
+            "Laiškas"
+          ],
+          "lv": [
+            "Vēstule",
+            "Papīrs"
+          ],
+          "hr": [
+            "Tekstualni dokumenti",
+            "Papir"
+          ],
+          "fr": [
+            "Papier",
+            "Lettre"
+          ],
+          "hu": [
+            "Papír",
+            "Levél"
+          ],
+          "sk": [
+            "Papier",
+            "List"
+          ],
+          "sl": [
+            "Pismo",
+            "Papir"
+          ],
+          "ga": [
+            "Litir",
+            "Páipéar"
+          ],
+          "ca": [
+            "Paper",
+            "Carta"
+          ],
+          "sv": [
+            "Papper",
+            "Brev"
+          ],
+          "el": [
+            "Χαρτί",
+            "Επιστολή"
+          ],
+          "mt": [
+            "Karta"
+          ],
+          "en": [
+            "Letter",
+            "Paper"
+          ],
+          "it": [
+            "Lettera",
+            "Carta"
+          ],
+          "es": [
+            "Papel",
+            "Carta"
+          ],
+          "et": [
+            "Kiri",
+            "Paber"
+          ],
+          "cs": [
+            "Papír",
+            "Dopis"
+          ],
+          "eu": [
+            "Eskutitz",
+            "Paper"
+          ],
+          "pl": [
+            "Papier",
+            "List"
+          ],
+          "da": [
+            "Papir",
+            "Brev"
+          ],
+          "ro": [
+            "Scrisoare",
+            "Hârtie"
+          ],
+          "nl": [
+            "Papier",
+            "Brief"
+          ]
+        },
+        "edmDatasetName": [
+          "996_ekultura_msu"
+        ],
+        "edmIsShownAt": [
+          "https://ekultura.hr/purl/url/WH2AIKV6KA3KWRGNRIKY7FB4HJ72WXC7"
+        ],
+        "edmIsShownBy": [
+          "https://ekultura.hr/purl/url/AY43WB3HAOADORAQLHV4WLOQJUVKQIAU"
+        ],
+        "edmPlaceAltLabel": [
+          {
+            "def": "Zagreb"
+          },
+          {
+            "def": "Agram"
+          },
+          {
+            "def": "Republik Kroatien"
+          },
+          {
+            "def": "HR"
+          },
+          {
+            "def": "HRV"
+          },
+          {
+            "def": "Zagrebe"
+          },
+          {
+            "def": "República da Croácia"
+          },
+          {
+            "def": "Zagreb, Croatia"
+          },
+          {
+            "def": "Agram"
+          },
+          {
+            "def": "City of Zagreb"
+          },
+          {
+            "def": "KK Zagreb"
+          },
+          {
+            "def": "Republic of Croatia"
+          },
+          {
+            "def": "HR"
+          },
+          {
+            "def": "HRV"
+          },
+          {
+            "def": "CRO"
+          },
+          {
+            "def": "RH"
+          },
+          {
+            "def": "Agram"
+          },
+          {
+            "def": "Republika Hrvatska"
+          },
+          {
+            "def": "RH"
+          },
+          {
+            "def": "Agram"
+          },
+          {
+            "def": "Repubblica di Croazia"
+          },
+          {
+            "def": "Республика Хорватия"
+          },
+          {
+            "def": "Republiken Kroatien"
+          },
+          {
+            "def": "Kroatian tasavalta"
+          },
+          {
+            "def": "Република Хърватия"
+          },
+          {
+            "def": "Хърватска"
+          },
+          {
+            "def": "Repubblika tal-Kroazja"
+          },
+          {
+            "def": "HR"
+          },
+          {
+            "def": "La République de Croatie"
+          },
+          {
+            "def": "Horvát Köztársaság"
+          },
+          {
+            "def": "República de Croacia"
+          },
+          {
+            "def": "Republica de Croacia"
+          },
+          {
+            "def": "Chorvátska republika"
+          },
+          {
+            "def": "Hrvatska"
+          },
+          {
+            "def": "Republika Chorwacji"
+          },
+          {
+            "def": "Republikken Kroatien"
+          },
+          {
+            "def": "KRO"
+          },
+          {
+            "def": "Republiek Kroatië"
+          },
+          {
+            "def": "Kroatie"
+          },
+          {
+            "def": "HR"
+          },
+          {
+            "def": "HRV"
+          }
+        ],
+        "edmPlaceAltLabelLangAware": {
+          "de": [
+            "Agram",
+            "Republik Kroatien",
+            "HR",
+            "HRV"
+          ],
+          "ru": [
+            "Республика Хорватия"
+          ],
+          "sv": [
+            "Republiken Kroatien"
+          ],
+          "fi": [
+            "Kroatian tasavalta"
+          ],
+          "pt": [
+            "Zagrebe",
+            "República da Croácia"
+          ],
+          "bg": [
+            "Република Хърватия",
+            "Хърватска"
+          ],
+          "mt": [
+            "Repubblika tal-Kroazja"
+          ],
+          "en": [
+            "Zagreb, Croatia",
+            "Agram",
+            "City of Zagreb",
+            "KK Zagreb",
+            "Republic of Croatia",
+            "HR",
+            "HRV",
+            "CRO",
+            "RH"
+          ],
+          "hr": [
+            "Agram",
+            "Republika Hrvatska",
+            "RH"
+          ],
+          "it": [
+            "Agram",
+            "Repubblica di Croazia"
+          ],
+          "fr": [
+            "HR",
+            "La République de Croatie"
+          ],
+          "hu": [
+            "Horvát Köztársaság"
+          ],
+          "es": [
+            "República de Croacia",
+            "Republica de Croacia"
+          ],
+          "cs": [
+            "Zagreb"
+          ],
+          "sk": [
+            "Chorvátska republika"
+          ],
+          "pl": [
+            "Hrvatska",
+            "Republika Chorwacji"
+          ],
+          "da": [
+            "Republikken Kroatien",
+            "KRO"
+          ],
+          "nl": [
+            "Republiek Kroatië",
+            "Kroatie",
+            "HR",
+            "HRV"
+          ]
+        },
+        "edmPlaceLabel": [
+          {
+            "def": "Zagreb"
+          },
+          {
+            "def": "Kroatien"
+          },
+          {
+            "def": "Zagreb"
+          },
+          {
+            "def": "Kroatia"
+          },
+          {
+            "def": "Загреб"
+          },
+          {
+            "def": "Хорватия"
+          },
+          {
+            "def": "Zagreb"
+          },
+          {
+            "def": "Croácia"
+          },
+          {
+            "def": "Загреб"
+          },
+          {
+            "def": "Хърватия"
+          },
+          {
+            "def": "Zagrebas"
+          },
+          {
+            "def": "Kroatija"
+          },
+          {
+            "def": "Zagreb"
+          },
+          {
+            "def": "Hrvatska"
+          },
+          {
+            "def": "Zagreba"
+          },
+          {
+            "def": "Horvātija"
+          },
+          {
+            "def": "Zagreb"
+          },
+          {
+            "def": "Croatie"
+          },
+          {
+            "def": "Zágráb"
+          },
+          {
+            "def": "Horvátország"
+          },
+          {
+            "def": "Záhreb"
+          },
+          {
+            "def": "Chorvátsko"
+          },
+          {
+            "def": "Zagreb"
+          },
+          {
+            "def": "Hrvaška"
+          },
+          {
+            "def": "Ságrab"
+          },
+          {
+            "def": "An Chróit"
+          },
+          {
+            "def": "Zagreb"
+          },
+          {
+            "def": "Croàcia"
+          },
+          {
+            "def": "Zagreb"
+          },
+          {
+            "def": "Kroatien"
+          },
+          {
+            "def": "Ζάγκρεμπ"
+          },
+          {
+            "def": "Κροατία"
+          },
+          {
+            "def": "Żagreb"
+          },
+          {
+            "def": "Kroazja"
+          },
+          {
+            "def": "Zagreb"
+          },
+          {
+            "def": "Croatia"
+          },
+          {
+            "def": "Zagabria"
+          },
+          {
+            "def": "Croazia"
+          },
+          {
+            "def": "Zagreb"
+          },
+          {
+            "def": "Croacia"
+          },
+          {
+            "def": "Zagreb"
+          },
+          {
+            "def": "Horvaatia"
+          },
+          {
+            "def": "Záhřeb"
+          },
+          {
+            "def": "Chorvatsko"
+          },
+          {
+            "def": "Zagreb"
+          },
+          {
+            "def": "Kroazia"
+          },
+          {
+            "def": "Zagrzeb"
+          },
+          {
+            "def": "Chorwacja"
+          },
+          {
+            "def": "Zagreb"
+          },
+          {
+            "def": "Kroatien"
+          },
+          {
+            "def": "Zagreb"
+          },
+          {
+            "def": "Croația"
+          },
+          {
+            "def": "Zagreb"
+          },
+          {
+            "def": "Kroatië"
+          }
+        ],
+        "edmPlaceLabelLangAware": {
+          "de": [
+            "Zagreb",
+            "Kroatien"
+          ],
+          "fi": [
+            "Zagreb",
+            "Kroatia"
+          ],
+          "ru": [
+            "Загреб",
+            "Хорватия"
+          ],
+          "pt": [
+            "Zagreb",
+            "Croácia"
+          ],
+          "bg": [
+            "Загреб",
+            "Хърватия"
+          ],
+          "lt": [
+            "Zagrebas",
+            "Kroatija"
+          ],
+          "hr": [
+            "Zagreb",
+            "Hrvatska"
+          ],
+          "lv": [
+            "Zagreba",
+            "Horvātija"
+          ],
+          "fr": [
+            "Zagreb",
+            "Croatie"
+          ],
+          "hu": [
+            "Zágráb",
+            "Horvátország"
+          ],
+          "sk": [
+            "Záhreb",
+            "Chorvátsko"
+          ],
+          "sl": [
+            "Zagreb",
+            "Hrvaška"
+          ],
+          "ga": [
+            "Ságrab",
+            "An Chróit"
+          ],
+          "ca": [
+            "Zagreb",
+            "Croàcia"
+          ],
+          "sv": [
+            "Zagreb",
+            "Kroatien"
+          ],
+          "el": [
+            "Ζάγκρεμπ",
+            "Κροατία"
+          ],
+          "mt": [
+            "Żagreb",
+            "Kroazja"
+          ],
+          "en": [
+            "Zagreb",
+            "Croatia"
+          ],
+          "it": [
+            "Zagabria",
+            "Croazia"
+          ],
+          "es": [
+            "Zagreb",
+            "Croacia"
+          ],
+          "et": [
+            "Zagreb",
+            "Horvaatia"
+          ],
+          "cs": [
+            "Záhřeb",
+            "Chorvatsko"
+          ],
+          "eu": [
+            "Zagreb",
+            "Kroazia"
+          ],
+          "pl": [
+            "Zagrzeb",
+            "Chorwacja"
+          ],
+          "da": [
+            "Zagreb",
+            "Kroatien"
+          ],
+          "ro": [
+            "Zagreb",
+            "Croația"
+          ],
+          "nl": [
+            "Zagreb",
+            "Kroatië"
+          ]
+        },
+        "edmPlaceLatitude": [
+          "45.813057",
+          "45.25"
+        ],
+        "edmPlaceLongitude": [
+          "15.977222",
+          "15.466667"
+        ],
+        "edmPreview": [
+          "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fekultura.hr%2Fpurl%2Furl%2FE53ZENNU54OGEYHLXUUVVG73P7QZV3IH&type=IMAGE"
+        ],
+        "edmTimespanLabel": [
+          {
+            "def": "1969-03-31"
+          },
+          {
+            "def": "20. Jahrhundert"
+          },
+          {
+            "def": "1900-luku"
+          },
+          {
+            "def": "XX век"
+          },
+          {
+            "def": "Século XX"
+          },
+          {
+            "def": "20 век"
+          },
+          {
+            "def": "XX amžius"
+          },
+          {
+            "def": "20. stoljeće"
+          },
+          {
+            "def": "20. gadsimts"
+          },
+          {
+            "def": "XXe siècle"
+          },
+          {
+            "def": "20. század"
+          },
+          {
+            "def": "20. storočie"
+          },
+          {
+            "def": "20. stoletje"
+          },
+          {
+            "def": "20ú haois"
+          },
+          {
+            "def": "Segle XX"
+          },
+          {
+            "def": "1900-talet"
+          },
+          {
+            "def": "20ός αιώνας"
+          },
+          {
+            "def": "20th century"
+          },
+          {
+            "def": "XX secolo"
+          },
+          {
+            "def": "Siglo XX"
+          },
+          {
+            "def": "20. sajand"
+          },
+          {
+            "def": "20. století"
+          },
+          {
+            "def": "XX. mendea"
+          },
+          {
+            "def": "XX wiek"
+          },
+          {
+            "def": "20. århundrede"
+          },
+          {
+            "def": "Secolul al XX-lea"
+          },
+          {
+            "def": "20e eeuw"
+          },
+          {
+            "def": "http://www.wikidata.org/entity/Q6927"
+          },
+          {
+            "def": "http://id.loc.gov/authorities/names/sh2002012476"
+          },
+          {
+            "def": "http://id.loc.gov/authorities/names/sh85139020"
+          },
+          {
+            "def": "http://id.nlm.nih.gov/mesh/D049673"
+          },
+          {
+            "def": "https://www.freebase.com/m/089_x"
+          },
+          {
+            "def": "https://g.co/kg/m/089_x"
+          },
+          {
+            "def": "http://id.nlm.nih.gov/mesh/K01.400.504.968"
+          },
+          {
+            "def": "http://vocab.getty.edu/aat/300404514"
+          },
+          {
+            "def": "http://id.worldcat.org/fast/1159810"
+          },
+          {
+            "def": "http://dbpedia.org/resource/20th_century"
+          }
+        ],
+        "edmTimespanLabelLangAware": {
+          "de": [
+            "20. Jahrhundert"
+          ],
+          "fi": [
+            "1900-luku"
+          ],
+          "ru": [
+            "XX век"
+          ],
+          "pt": [
+            "Século XX"
+          ],
+          "bg": [
+            "20 век"
+          ],
+          "lt": [
+            "XX amžius"
+          ],
+          "hr": [
+            "20. stoljeće"
+          ],
+          "lv": [
+            "20. gadsimts"
+          ],
+          "fr": [
+            "XXe siècle"
+          ],
+          "hu": [
+            "20. század"
+          ],
+          "sk": [
+            "20. storočie"
+          ],
+          "sl": [
+            "20. stoletje"
+          ],
+          "ga": [
+            "20ú haois"
+          ],
+          "ca": [
+            "Segle XX"
+          ],
+          "sv": [
+            "1900-talet"
+          ],
+          "el": [
+            "20ός αιώνας"
+          ],
+          "en": [
+            "20th century"
+          ],
+          "it": [
+            "XX secolo"
+          ],
+          "es": [
+            "Siglo XX"
+          ],
+          "et": [
+            "20. sajand"
+          ],
+          "cs": [
+            "20. století"
+          ],
+          "eu": [
+            "XX. mendea"
+          ],
+          "zxx": [
+            "1969-03-31"
+          ],
+          "pl": [
+            "XX wiek"
+          ],
+          "da": [
+            "20. århundrede"
+          ],
+          "ro": [
+            "Secolul al XX-lea"
+          ],
+          "nl": [
+            "20e eeuw"
+          ]
+        },
+        "europeanaCollectionName": [
+          "996_ekultura_msu"
+        ],
+        "europeanaCompleteness": 10,
+        "guid": "https://www.europeana.eu/item/996/https___ekultura_hr_purl_url_WH2AIKV6KA3KWRGNRIKY7FB4HJ72WXC7?utm_source=api&utm_medium=api&utm_campaign=whodwicueabb",
+        "id": "/996/https___ekultura_hr_purl_url_WH2AIKV6KA3KWRGNRIKY7FB4HJ72WXC7",
+        "index": 0,
+        "language": [
+          "hr"
+        ],
+        "link": "https://api.europeana.eu/record/996/https___ekultura_hr_purl_url_WH2AIKV6KA3KWRGNRIKY7FB4HJ72WXC7.json?wskey=whodwicueabb",
+        "previewNoDistribute": false,
+        "provider": [
+          "EKultura.hr"
+        ],
+        "rights": [
+          "http://rightsstatements.org/vocab/InC-EDU/1.0/"
+        ],
+        "score": 54.47625,
+        "timestamp": 1752072311112,
+        "timestamp_created": "2023-09-15T07:49:49.109Z",
+        "timestamp_created_epoch": 1694764189109,
+        "timestamp_update": "2023-09-15T07:49:49.109Z",
+        "timestamp_update_epoch": 1694764189109,
+        "title": [
+          "Letter from Boris Kelemen to David L. Anderson (California Computer Products, Inc., Anaheim, California, USA)",
+          "Pismo Boris Kelemen, za: David L. Anderson (California Computer Products, Inc., Anaheim, Kalifornija, SAD)"
+        ],
+        "type": "IMAGE",
+        "ugc": [
+          false
+        ]
+      },
+      {
+        "completeness": 10,
+        "country": [
+          "Croatia"
+        ],
+        "dataProvider": [
+          "Museum of Contemporary Art"
+        ],
+        "dcCreator": [
+          "Kelemen, Boris",
+          "Kelemen, Boris"
+        ],
+        "dcCreatorLangAware": {
+          "en": [
+            "Kelemen, Boris"
+          ],
+          "hr": [
+            "Kelemen, Boris"
+          ]
+        },
+        "dcDescription": [
+          "Invitation to participate in T4.",
+          "Poziv za sudjelovanje na T4."
+        ],
+        "dcDescriptionLangAware": {
+          "en": [
+            "Invitation to participate in T4."
+          ],
+          "hr": [
+            "Poziv za sudjelovanje na T4."
+          ]
+        },
+        "dcTitleLangAware": {
+          "en": [
+            "Letter from Boris Kelemen to Gary Craigmile (California Computer Products, Inc., Anaheim, California, USA)"
+          ],
+          "hr": [
+            "Pismo Boris Kelemen, za: Gary Craigmile (California Computer Products,Inc., Anaheim, Kalifornija, SAD)"
+          ]
+        },
+        "edmConcept": [
+          "https://ekultura.hr/purl/url/NRZY67IU7LUPRMMTTSFH4XA4KFBPDY6Y",
+          "http://data.europeana.eu/concept/2909",
+          "http://data.europeana.eu/concept/2090"
+        ],
+        "edmConceptLabel": [
+          {
+            "def": "Tekstualni dokumenti"
+          },
+          {
+            "def": "Papir"
+          },
+          {
+            "def": "Brief"
+          },
+          {
+            "def": "Papier"
+          },
+          {
+            "def": "Письмо"
+          },
+          {
+            "def": "Бумага"
+          },
+          {
+            "def": "Kirje"
+          },
+          {
+            "def": "Paperi"
+          },
+          {
+            "def": "Carta"
+          },
+          {
+            "def": "Papel"
+          },
+          {
+            "def": "Писмо"
+          },
+          {
+            "def": "Хартия"
+          },
+          {
+            "def": "Laiškas"
+          },
+          {
+            "def": "Popierius"
+          },
+          {
+            "def": "Vēstule"
+          },
+          {
+            "def": "Papīrs"
+          },
+          {
+            "def": "Lettre"
+          },
+          {
+            "def": "Papier"
+          },
+          {
+            "def": "Levél"
+          },
+          {
+            "def": "Papír"
+          },
+          {
+            "def": "List"
+          },
+          {
+            "def": "Papier"
+          },
+          {
+            "def": "Pismo"
+          },
+          {
+            "def": "Papir"
+          },
+          {
+            "def": "Litir"
+          },
+          {
+            "def": "Páipéar"
+          },
+          {
+            "def": "Carta"
+          },
+          {
+            "def": "Paper"
+          },
+          {
+            "def": "Brev"
+          },
+          {
+            "def": "Papper"
+          },
+          {
+            "def": "Επιστολή"
+          },
+          {
+            "def": "Χαρτί"
+          },
+          {
+            "def": "Letter"
+          },
+          {
+            "def": "Paper"
+          },
+          {
+            "def": "Lettera"
+          },
+          {
+            "def": "Carta"
+          },
+          {
+            "def": "Carta"
+          },
+          {
+            "def": "Papel"
+          },
+          {
+            "def": "Kiri"
+          },
+          {
+            "def": "Paber"
+          },
+          {
+            "def": "Dopis"
+          },
+          {
+            "def": "Papír"
+          },
+          {
+            "def": "Eskutitz"
+          },
+          {
+            "def": "Paper"
+          },
+          {
+            "def": "List"
+          },
+          {
+            "def": "Papier"
+          },
+          {
+            "def": "Brev"
+          },
+          {
+            "def": "Papir"
+          },
+          {
+            "def": "Scrisoare"
+          },
+          {
+            "def": "Hârtie"
+          },
+          {
+            "def": "Brief"
+          },
+          {
+            "def": "Papier"
+          },
+          {
+            "def": "Karta"
+          }
+        ],
+        "edmConceptPrefLabelLangAware": {
+          "de": [
+            "Papier",
+            "Brief"
+          ],
+          "ru": [
+            "Бумага",
+            "Письмо"
+          ],
+          "fi": [
+            "Paperi",
+            "Kirje"
+          ],
+          "pt": [
+            "Papel",
+            "Carta"
+          ],
+          "bg": [
+            "Хартия",
+            "Писмо"
+          ],
+          "lt": [
+            "Popierius",
+            "Laiškas"
+          ],
+          "hr": [
+            "Tekstualni dokumenti",
+            "Papir"
+          ],
+          "lv": [
+            "Vēstule",
+            "Papīrs"
+          ],
+          "fr": [
+            "Papier",
+            "Lettre"
+          ],
+          "hu": [
+            "Papír",
+            "Levél"
+          ],
+          "sk": [
+            "Papier",
+            "List"
+          ],
+          "sl": [
+            "Pismo",
+            "Papir"
+          ],
+          "ga": [
+            "Litir",
+            "Páipéar"
+          ],
+          "ca": [
+            "Paper",
+            "Carta"
+          ],
+          "sv": [
+            "Papper",
+            "Brev"
+          ],
+          "el": [
+            "Χαρτί",
+            "Επιστολή"
+          ],
+          "mt": [
+            "Karta"
+          ],
+          "en": [
+            "Letter",
+            "Paper"
+          ],
+          "it": [
+            "Lettera",
+            "Carta"
+          ],
+          "es": [
+            "Papel",
+            "Carta"
+          ],
+          "et": [
+            "Kiri",
+            "Paber"
+          ],
+          "cs": [
+            "Papír",
+            "Dopis"
+          ],
+          "eu": [
+            "Eskutitz",
+            "Paper"
+          ],
+          "pl": [
+            "Papier",
+            "List"
+          ],
+          "da": [
+            "Papir",
+            "Brev"
+          ],
+          "ro": [
+            "Scrisoare",
+            "Hârtie"
+          ],
+          "nl": [
+            "Papier",
+            "Brief"
+          ]
+        },
+        "edmDatasetName": [
+          "996_ekultura_msu"
+        ],
+        "edmIsShownAt": [
+          "https://ekultura.hr/purl/url/PPKGSUPRSUHJHYCRDX2WZ5BIYF4SLPCA"
+        ],
+        "edmIsShownBy": [
+          "https://ekultura.hr/purl/url/X2XVP2UNSZMWYE55RP5MMIAQWGZX2EB3"
+        ],
+        "edmPlaceAltLabel": [
+          {
+            "def": "Zagreb"
+          },
+          {
+            "def": "Agram"
+          },
+          {
+            "def": "Republik Kroatien"
+          },
+          {
+            "def": "HR"
+          },
+          {
+            "def": "HRV"
+          },
+          {
+            "def": "Zagrebe"
+          },
+          {
+            "def": "República da Croácia"
+          },
+          {
+            "def": "Zagreb, Croatia"
+          },
+          {
+            "def": "Agram"
+          },
+          {
+            "def": "City of Zagreb"
+          },
+          {
+            "def": "KK Zagreb"
+          },
+          {
+            "def": "Republic of Croatia"
+          },
+          {
+            "def": "HR"
+          },
+          {
+            "def": "HRV"
+          },
+          {
+            "def": "CRO"
+          },
+          {
+            "def": "RH"
+          },
+          {
+            "def": "Agram"
+          },
+          {
+            "def": "Republika Hrvatska"
+          },
+          {
+            "def": "RH"
+          },
+          {
+            "def": "Agram"
+          },
+          {
+            "def": "Repubblica di Croazia"
+          },
+          {
+            "def": "Республика Хорватия"
+          },
+          {
+            "def": "Republiken Kroatien"
+          },
+          {
+            "def": "Kroatian tasavalta"
+          },
+          {
+            "def": "Република Хърватия"
+          },
+          {
+            "def": "Хърватска"
+          },
+          {
+            "def": "Repubblika tal-Kroazja"
+          },
+          {
+            "def": "HR"
+          },
+          {
+            "def": "La République de Croatie"
+          },
+          {
+            "def": "Horvát Köztársaság"
+          },
+          {
+            "def": "República de Croacia"
+          },
+          {
+            "def": "Republica de Croacia"
+          },
+          {
+            "def": "Chorvátska republika"
+          },
+          {
+            "def": "Hrvatska"
+          },
+          {
+            "def": "Republika Chorwacji"
+          },
+          {
+            "def": "Republikken Kroatien"
+          },
+          {
+            "def": "KRO"
+          },
+          {
+            "def": "Republiek Kroatië"
+          },
+          {
+            "def": "Kroatie"
+          },
+          {
+            "def": "HR"
+          },
+          {
+            "def": "HRV"
+          }
+        ],
+        "edmPlaceAltLabelLangAware": {
+          "de": [
+            "Agram",
+            "Republik Kroatien",
+            "HR",
+            "HRV"
+          ],
+          "ru": [
+            "Республика Хорватия"
+          ],
+          "sv": [
+            "Republiken Kroatien"
+          ],
+          "fi": [
+            "Kroatian tasavalta"
+          ],
+          "pt": [
+            "Zagrebe",
+            "República da Croácia"
+          ],
+          "bg": [
+            "Република Хърватия",
+            "Хърватска"
+          ],
+          "mt": [
+            "Repubblika tal-Kroazja"
+          ],
+          "en": [
+            "Zagreb, Croatia",
+            "Agram",
+            "City of Zagreb",
+            "KK Zagreb",
+            "Republic of Croatia",
+            "HR",
+            "HRV",
+            "CRO",
+            "RH"
+          ],
+          "hr": [
+            "Agram",
+            "Republika Hrvatska",
+            "RH"
+          ],
+          "it": [
+            "Agram",
+            "Repubblica di Croazia"
+          ],
+          "fr": [
+            "HR",
+            "La République de Croatie"
+          ],
+          "hu": [
+            "Horvát Köztársaság"
+          ],
+          "es": [
+            "República de Croacia",
+            "Republica de Croacia"
+          ],
+          "cs": [
+            "Zagreb"
+          ],
+          "sk": [
+            "Chorvátska republika"
+          ],
+          "pl": [
+            "Hrvatska",
+            "Republika Chorwacji"
+          ],
+          "da": [
+            "Republikken Kroatien",
+            "KRO"
+          ],
+          "nl": [
+            "Republiek Kroatië",
+            "Kroatie",
+            "HR",
+            "HRV"
+          ]
+        },
+        "edmPlaceLabel": [
+          {
+            "def": "Zagreb"
+          },
+          {
+            "def": "Kroatien"
+          },
+          {
+            "def": "Zagreb"
+          },
+          {
+            "def": "Kroatia"
+          },
+          {
+            "def": "Загреб"
+          },
+          {
+            "def": "Хорватия"
+          },
+          {
+            "def": "Zagreb"
+          },
+          {
+            "def": "Croácia"
+          },
+          {
+            "def": "Загреб"
+          },
+          {
+            "def": "Хърватия"
+          },
+          {
+            "def": "Zagrebas"
+          },
+          {
+            "def": "Kroatija"
+          },
+          {
+            "def": "Zagreb"
+          },
+          {
+            "def": "Hrvatska"
+          },
+          {
+            "def": "Zagreba"
+          },
+          {
+            "def": "Horvātija"
+          },
+          {
+            "def": "Zagreb"
+          },
+          {
+            "def": "Croatie"
+          },
+          {
+            "def": "Zágráb"
+          },
+          {
+            "def": "Horvátország"
+          },
+          {
+            "def": "Záhreb"
+          },
+          {
+            "def": "Chorvátsko"
+          },
+          {
+            "def": "Zagreb"
+          },
+          {
+            "def": "Hrvaška"
+          },
+          {
+            "def": "Ságrab"
+          },
+          {
+            "def": "An Chróit"
+          },
+          {
+            "def": "Zagreb"
+          },
+          {
+            "def": "Croàcia"
+          },
+          {
+            "def": "Zagreb"
+          },
+          {
+            "def": "Kroatien"
+          },
+          {
+            "def": "Ζάγκρεμπ"
+          },
+          {
+            "def": "Κροατία"
+          },
+          {
+            "def": "Żagreb"
+          },
+          {
+            "def": "Kroazja"
+          },
+          {
+            "def": "Zagreb"
+          },
+          {
+            "def": "Croatia"
+          },
+          {
+            "def": "Zagabria"
+          },
+          {
+            "def": "Croazia"
+          },
+          {
+            "def": "Zagreb"
+          },
+          {
+            "def": "Croacia"
+          },
+          {
+            "def": "Zagreb"
+          },
+          {
+            "def": "Horvaatia"
+          },
+          {
+            "def": "Záhřeb"
+          },
+          {
+            "def": "Chorvatsko"
+          },
+          {
+            "def": "Zagreb"
+          },
+          {
+            "def": "Kroazia"
+          },
+          {
+            "def": "Zagrzeb"
+          },
+          {
+            "def": "Chorwacja"
+          },
+          {
+            "def": "Zagreb"
+          },
+          {
+            "def": "Kroatien"
+          },
+          {
+            "def": "Zagreb"
+          },
+          {
+            "def": "Croația"
+          },
+          {
+            "def": "Zagreb"
+          },
+          {
+            "def": "Kroatië"
+          }
+        ],
+        "edmPlaceLabelLangAware": {
+          "de": [
+            "Zagreb",
+            "Kroatien"
+          ],
+          "fi": [
+            "Zagreb",
+            "Kroatia"
+          ],
+          "ru": [
+            "Загреб",
+            "Хорватия"
+          ],
+          "pt": [
+            "Zagreb",
+            "Croácia"
+          ],
+          "bg": [
+            "Загреб",
+            "Хърватия"
+          ],
+          "lt": [
+            "Zagrebas",
+            "Kroatija"
+          ],
+          "hr": [
+            "Zagreb",
+            "Hrvatska"
+          ],
+          "lv": [
+            "Zagreba",
+            "Horvātija"
+          ],
+          "fr": [
+            "Zagreb",
+            "Croatie"
+          ],
+          "hu": [
+            "Zágráb",
+            "Horvátország"
+          ],
+          "sk": [
+            "Záhreb",
+            "Chorvátsko"
+          ],
+          "sl": [
+            "Zagreb",
+            "Hrvaška"
+          ],
+          "ga": [
+            "Ságrab",
+            "An Chróit"
+          ],
+          "ca": [
+            "Zagreb",
+            "Croàcia"
+          ],
+          "sv": [
+            "Zagreb",
+            "Kroatien"
+          ],
+          "el": [
+            "Ζάγκρεμπ",
+            "Κροατία"
+          ],
+          "mt": [
+            "Żagreb",
+            "Kroazja"
+          ],
+          "en": [
+            "Zagreb",
+            "Croatia"
+          ],
+          "it": [
+            "Zagabria",
+            "Croazia"
+          ],
+          "es": [
+            "Zagreb",
+            "Croacia"
+          ],
+          "et": [
+            "Zagreb",
+            "Horvaatia"
+          ],
+          "cs": [
+            "Záhřeb",
+            "Chorvatsko"
+          ],
+          "eu": [
+            "Zagreb",
+            "Kroazia"
+          ],
+          "pl": [
+            "Zagrzeb",
+            "Chorwacja"
+          ],
+          "da": [
+            "Zagreb",
+            "Kroatien"
+          ],
+          "ro": [
+            "Zagreb",
+            "Croația"
+          ],
+          "nl": [
+            "Zagreb",
+            "Kroatië"
+          ]
+        },
+        "edmPlaceLatitude": [
+          "45.813057",
+          "45.25"
+        ],
+        "edmPlaceLongitude": [
+          "15.977222",
+          "15.466667"
+        ],
+        "edmPreview": [
+          "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fekultura.hr%2Fpurl%2Furl%2FURBZGLIXB3ERKPAGWBDQJ3EU6QCAUTEI&type=IMAGE"
+        ],
+        "edmTimespanLabel": [
+          {
+            "def": "1969-03-31"
+          },
+          {
+            "def": "20. Jahrhundert"
+          },
+          {
+            "def": "1900-luku"
+          },
+          {
+            "def": "XX век"
+          },
+          {
+            "def": "Século XX"
+          },
+          {
+            "def": "20 век"
+          },
+          {
+            "def": "XX amžius"
+          },
+          {
+            "def": "20. stoljeće"
+          },
+          {
+            "def": "20. gadsimts"
+          },
+          {
+            "def": "XXe siècle"
+          },
+          {
+            "def": "20. század"
+          },
+          {
+            "def": "20. storočie"
+          },
+          {
+            "def": "20. stoletje"
+          },
+          {
+            "def": "20ú haois"
+          },
+          {
+            "def": "Segle XX"
+          },
+          {
+            "def": "1900-talet"
+          },
+          {
+            "def": "20ός αιώνας"
+          },
+          {
+            "def": "20th century"
+          },
+          {
+            "def": "XX secolo"
+          },
+          {
+            "def": "Siglo XX"
+          },
+          {
+            "def": "20. sajand"
+          },
+          {
+            "def": "20. století"
+          },
+          {
+            "def": "XX. mendea"
+          },
+          {
+            "def": "XX wiek"
+          },
+          {
+            "def": "20. århundrede"
+          },
+          {
+            "def": "Secolul al XX-lea"
+          },
+          {
+            "def": "20e eeuw"
+          },
+          {
+            "def": "http://www.wikidata.org/entity/Q6927"
+          },
+          {
+            "def": "http://id.loc.gov/authorities/names/sh2002012476"
+          },
+          {
+            "def": "http://id.loc.gov/authorities/names/sh85139020"
+          },
+          {
+            "def": "http://id.nlm.nih.gov/mesh/D049673"
+          },
+          {
+            "def": "https://www.freebase.com/m/089_x"
+          },
+          {
+            "def": "https://g.co/kg/m/089_x"
+          },
+          {
+            "def": "http://id.nlm.nih.gov/mesh/K01.400.504.968"
+          },
+          {
+            "def": "http://vocab.getty.edu/aat/300404514"
+          },
+          {
+            "def": "http://id.worldcat.org/fast/1159810"
+          },
+          {
+            "def": "http://dbpedia.org/resource/20th_century"
+          }
+        ],
+        "edmTimespanLabelLangAware": {
+          "de": [
+            "20. Jahrhundert"
+          ],
+          "fi": [
+            "1900-luku"
+          ],
+          "ru": [
+            "XX век"
+          ],
+          "pt": [
+            "Século XX"
+          ],
+          "bg": [
+            "20 век"
+          ],
+          "lt": [
+            "XX amžius"
+          ],
+          "hr": [
+            "20. stoljeće"
+          ],
+          "lv": [
+            "20. gadsimts"
+          ],
+          "fr": [
+            "XXe siècle"
+          ],
+          "hu": [
+            "20. század"
+          ],
+          "sk": [
+            "20. storočie"
+          ],
+          "sl": [
+            "20. stoletje"
+          ],
+          "ga": [
+            "20ú haois"
+          ],
+          "ca": [
+            "Segle XX"
+          ],
+          "sv": [
+            "1900-talet"
+          ],
+          "el": [
+            "20ός αιώνας"
+          ],
+          "en": [
+            "20th century"
+          ],
+          "it": [
+            "XX secolo"
+          ],
+          "es": [
+            "Siglo XX"
+          ],
+          "et": [
+            "20. sajand"
+          ],
+          "cs": [
+            "20. století"
+          ],
+          "eu": [
+            "XX. mendea"
+          ],
+          "zxx": [
+            "1969-03-31"
+          ],
+          "pl": [
+            "XX wiek"
+          ],
+          "da": [
+            "20. århundrede"
+          ],
+          "ro": [
+            "Secolul al XX-lea"
+          ],
+          "nl": [
+            "20e eeuw"
+          ]
+        },
+        "europeanaCollectionName": [
+          "996_ekultura_msu"
+        ],
+        "europeanaCompleteness": 10,
+        "guid": "https://www.europeana.eu/item/996/https___ekultura_hr_purl_url_PPKGSUPRSUHJHYCRDX2WZ5BIYF4SLPCA?utm_source=api&utm_medium=api&utm_campaign=whodwicueabb",
+        "id": "/996/https___ekultura_hr_purl_url_PPKGSUPRSUHJHYCRDX2WZ5BIYF4SLPCA",
+        "index": 0,
+        "language": [
+          "hr"
+        ],
+        "link": "https://api.europeana.eu/record/996/https___ekultura_hr_purl_url_PPKGSUPRSUHJHYCRDX2WZ5BIYF4SLPCA.json?wskey=whodwicueabb",
+        "previewNoDistribute": false,
+        "provider": [
+          "EKultura.hr"
+        ],
+        "rights": [
+          "http://rightsstatements.org/vocab/InC-EDU/1.0/"
+        ],
+        "score": 56.166424,
+        "timestamp": 1752072288730,
+        "timestamp_created": "2023-09-15T07:49:49.109Z",
+        "timestamp_created_epoch": 1694764189109,
+        "timestamp_update": "2023-09-15T07:49:49.109Z",
+        "timestamp_update_epoch": 1694764189109,
+        "title": [
+          "Letter from Boris Kelemen to Gary Craigmile (California Computer Products, Inc., Anaheim, California, USA)",
+          "Pismo Boris Kelemen, za: Gary Craigmile (California Computer Products,Inc., Anaheim, Kalifornija, SAD)"
+        ],
+        "type": "IMAGE",
+        "ugc": [
+          false
+        ]
+      },
+      {
+        "completeness": 10,
+        "country": [
+          "Croatia"
+        ],
+        "dataProvider": [
+          "Museum of Contemporary Art"
+        ],
+        "dcCreator": [
+          "Pyle, James L.",
+          "Kelemen, Boris",
+          "Pyle, James L.",
+          "Kelemen, Boris"
+        ],
+        "dcCreatorLangAware": {
+          "en": [
+            "Pyle, James L.",
+            "Kelemen, Boris"
+          ],
+          "hr": [
+            "Pyle, James L.",
+            "Kelemen, Boris"
+          ]
+        },
+        "dcDescription": [
+          "Request for the return of works exhibited at T4 in order to participate in another exhibition.",
+          "Zahtjev za povrat radova izloženih na T4 radi sudjelovanja na drugoj izložbi."
+        ],
+        "dcDescriptionLangAware": {
+          "en": [
+            "Request for the return of works exhibited at T4 in order to participate in another exhibition."
+          ],
+          "hr": [
+            "Zahtjev za povrat radova izloženih na T4 radi sudjelovanja na drugoj izložbi."
+          ]
+        },
+        "dcTitleLangAware": {
+          "en": [
+            "Correspondence between Boris Kelemen and James L. Pyle (California Computer Products, Inc., Anaheim, California, USA)"
+          ],
+          "hr": [
+            "Korespondencija Boris Kelemen - James L. Pyle (California Computer Products, Inc., Anaheim, Kalifornija, SAD)"
+          ]
+        },
+        "edmConcept": [
+          "http://data.europeana.eu/concept/2090",
+          "http://data.europeana.eu/concept/2834",
+          "https://ekultura.hr/purl/url/YIMOR723H44RWNVGEBSYUB2AVDT2O7V7"
+        ],
+        "edmConceptLabel": [
+          {
+            "def": "Papier"
+          },
+          {
+            "def": "Korrespondenz"
+          },
+          {
+            "def": "Paperi"
+          },
+          {
+            "def": "Kirjeenvaihto"
+          },
+          {
+            "def": "Бумага"
+          },
+          {
+            "def": "Переписка"
+          },
+          {
+            "def": "Papel"
+          },
+          {
+            "def": "Correspondência"
+          },
+          {
+            "def": "Хартия"
+          },
+          {
+            "def": "Popierius"
+          },
+          {
+            "def": "Papir"
+          },
+          {
+            "def": "Tekstualni dokumenti"
+          },
+          {
+            "def": "Papīrs"
+          },
+          {
+            "def": "Sarakste"
+          },
+          {
+            "def": "Papier"
+          },
+          {
+            "def": "Correspondance"
+          },
+          {
+            "def": "Papír"
+          },
+          {
+            "def": "Papier"
+          },
+          {
+            "def": "Papir"
+          },
+          {
+            "def": "Korespondenca"
+          },
+          {
+            "def": "Páipéar"
+          },
+          {
+            "def": "Paper"
+          },
+          {
+            "def": "Correspondència"
+          },
+          {
+            "def": "Papper"
+          },
+          {
+            "def": "Brevväxling"
+          },
+          {
+            "def": "Χαρτί"
+          },
+          {
+            "def": "Αλληλογραφία"
+          },
+          {
+            "def": "Karta"
+          },
+          {
+            "def": "Paper"
+          },
+          {
+            "def": "Correspondence"
+          },
+          {
+            "def": "Carta"
+          },
+          {
+            "def": "Corrispondenza"
+          },
+          {
+            "def": "Papel"
+          },
+          {
+            "def": "Correspondencia"
+          },
+          {
+            "def": "Paber"
+          },
+          {
+            "def": "Kiri"
+          },
+          {
+            "def": "Papír"
+          },
+          {
+            "def": "Korespondence"
+          },
+          {
+            "def": "Paper"
+          },
+          {
+            "def": "Papier"
+          },
+          {
+            "def": "Papir"
+          },
+          {
+            "def": "Korrespondance"
+          },
+          {
+            "def": "Hârtie"
+          },
+          {
+            "def": "Papier"
+          },
+          {
+            "def": "Correspondentie"
+          }
+        ],
+        "edmConceptPrefLabelLangAware": {
+          "de": [
+            "Korrespondenz",
+            "Papier"
+          ],
+          "fi": [
+            "Paperi",
+            "Kirjeenvaihto"
+          ],
+          "ru": [
+            "Бумага",
+            "Переписка"
+          ],
+          "pt": [
+            "Papel",
+            "Correspondência"
+          ],
+          "bg": [
+            "Хартия"
+          ],
+          "lt": [
+            "Popierius"
+          ],
+          "hr": [
+            "Papir",
+            "Tekstualni dokumenti"
+          ],
+          "lv": [
+            "Sarakste",
+            "Papīrs"
+          ],
+          "fr": [
+            "Papier",
+            "Correspondance"
+          ],
+          "hu": [
+            "Papír"
+          ],
+          "sk": [
+            "Papier"
+          ],
+          "sl": [
+            "Papir",
+            "Korespondenca"
+          ],
+          "ga": [
+            "Páipéar"
+          ],
+          "ca": [
+            "Correspondència",
+            "Paper"
+          ],
+          "sv": [
+            "Papper",
+            "Brevväxling"
+          ],
+          "el": [
+            "Χαρτί",
+            "Αλληλογραφία"
+          ],
+          "mt": [
+            "Karta"
+          ],
+          "en": [
+            "Paper",
+            "Correspondence"
+          ],
+          "it": [
+            "Corrispondenza",
+            "Carta"
+          ],
+          "es": [
+            "Papel",
+            "Correspondencia"
+          ],
+          "et": [
+            "Kiri",
+            "Paber"
+          ],
+          "cs": [
+            "Papír",
+            "Korespondence"
+          ],
+          "eu": [
+            "Paper"
+          ],
+          "pl": [
+            "Papier"
+          ],
+          "da": [
+            "Korrespondance",
+            "Papir"
+          ],
+          "ro": [
+            "Hârtie"
+          ],
+          "nl": [
+            "Correspondentie",
+            "Papier"
+          ]
+        },
+        "edmDatasetName": [
+          "996_ekultura_msu"
+        ],
+        "edmIsShownAt": [
+          "https://ekultura.hr/purl/url/NCRNOM3XNATKAVHPJSA4TJF5WK26V77G"
+        ],
+        "edmIsShownBy": [
+          "https://ekultura.hr/purl/url/QLSK5RSQR75YQNQT7BU5GB4K2EQHEDMB"
+        ],
+        "edmPlaceAltLabel": [
+          {
+            "def": "Zagreb"
+          },
+          {
+            "def": "Agram"
+          },
+          {
+            "def": "Republik Kroatien"
+          },
+          {
+            "def": "HR"
+          },
+          {
+            "def": "HRV"
+          },
+          {
+            "def": "Zagrebe"
+          },
+          {
+            "def": "República da Croácia"
+          },
+          {
+            "def": "Zagreb, Croatia"
+          },
+          {
+            "def": "Agram"
+          },
+          {
+            "def": "City of Zagreb"
+          },
+          {
+            "def": "KK Zagreb"
+          },
+          {
+            "def": "Republic of Croatia"
+          },
+          {
+            "def": "HR"
+          },
+          {
+            "def": "HRV"
+          },
+          {
+            "def": "CRO"
+          },
+          {
+            "def": "RH"
+          },
+          {
+            "def": "Agram"
+          },
+          {
+            "def": "Republika Hrvatska"
+          },
+          {
+            "def": "RH"
+          },
+          {
+            "def": "Agram"
+          },
+          {
+            "def": "Repubblica di Croazia"
+          },
+          {
+            "def": "Республика Хорватия"
+          },
+          {
+            "def": "Republiken Kroatien"
+          },
+          {
+            "def": "Kroatian tasavalta"
+          },
+          {
+            "def": "Република Хърватия"
+          },
+          {
+            "def": "Хърватска"
+          },
+          {
+            "def": "Repubblika tal-Kroazja"
+          },
+          {
+            "def": "HR"
+          },
+          {
+            "def": "La République de Croatie"
+          },
+          {
+            "def": "Horvát Köztársaság"
+          },
+          {
+            "def": "República de Croacia"
+          },
+          {
+            "def": "Republica de Croacia"
+          },
+          {
+            "def": "Chorvátska republika"
+          },
+          {
+            "def": "Hrvatska"
+          },
+          {
+            "def": "Republika Chorwacji"
+          },
+          {
+            "def": "Republikken Kroatien"
+          },
+          {
+            "def": "KRO"
+          },
+          {
+            "def": "Republiek Kroatië"
+          },
+          {
+            "def": "Kroatie"
+          },
+          {
+            "def": "HR"
+          },
+          {
+            "def": "HRV"
+          }
+        ],
+        "edmPlaceAltLabelLangAware": {
+          "de": [
+            "Agram",
+            "Republik Kroatien",
+            "HR",
+            "HRV"
+          ],
+          "ru": [
+            "Республика Хорватия"
+          ],
+          "sv": [
+            "Republiken Kroatien"
+          ],
+          "fi": [
+            "Kroatian tasavalta"
+          ],
+          "pt": [
+            "Zagrebe",
+            "República da Croácia"
+          ],
+          "bg": [
+            "Република Хърватия",
+            "Хърватска"
+          ],
+          "mt": [
+            "Repubblika tal-Kroazja"
+          ],
+          "en": [
+            "Zagreb, Croatia",
+            "Agram",
+            "City of Zagreb",
+            "KK Zagreb",
+            "Republic of Croatia",
+            "HR",
+            "HRV",
+            "CRO",
+            "RH"
+          ],
+          "hr": [
+            "Agram",
+            "Republika Hrvatska",
+            "RH"
+          ],
+          "it": [
+            "Agram",
+            "Repubblica di Croazia"
+          ],
+          "fr": [
+            "HR",
+            "La République de Croatie"
+          ],
+          "hu": [
+            "Horvát Köztársaság"
+          ],
+          "es": [
+            "República de Croacia",
+            "Republica de Croacia"
+          ],
+          "cs": [
+            "Zagreb"
+          ],
+          "sk": [
+            "Chorvátska republika"
+          ],
+          "pl": [
+            "Hrvatska",
+            "Republika Chorwacji"
+          ],
+          "da": [
+            "Republikken Kroatien",
+            "KRO"
+          ],
+          "nl": [
+            "Republiek Kroatië",
+            "Kroatie",
+            "HR",
+            "HRV"
+          ]
+        },
+        "edmPlaceLabel": [
+          {
+            "def": "Zagreb"
+          },
+          {
+            "def": "Kroatien"
+          },
+          {
+            "def": "Zagreb"
+          },
+          {
+            "def": "Kroatia"
+          },
+          {
+            "def": "Загреб"
+          },
+          {
+            "def": "Хорватия"
+          },
+          {
+            "def": "Zagreb"
+          },
+          {
+            "def": "Croácia"
+          },
+          {
+            "def": "Загреб"
+          },
+          {
+            "def": "Хърватия"
+          },
+          {
+            "def": "Zagrebas"
+          },
+          {
+            "def": "Kroatija"
+          },
+          {
+            "def": "Zagreb"
+          },
+          {
+            "def": "Hrvatska"
+          },
+          {
+            "def": "Zagreba"
+          },
+          {
+            "def": "Horvātija"
+          },
+          {
+            "def": "Zagreb"
+          },
+          {
+            "def": "Croatie"
+          },
+          {
+            "def": "Zágráb"
+          },
+          {
+            "def": "Horvátország"
+          },
+          {
+            "def": "Záhreb"
+          },
+          {
+            "def": "Chorvátsko"
+          },
+          {
+            "def": "Zagreb"
+          },
+          {
+            "def": "Hrvaška"
+          },
+          {
+            "def": "Ságrab"
+          },
+          {
+            "def": "An Chróit"
+          },
+          {
+            "def": "Zagreb"
+          },
+          {
+            "def": "Croàcia"
+          },
+          {
+            "def": "Zagreb"
+          },
+          {
+            "def": "Kroatien"
+          },
+          {
+            "def": "Ζάγκρεμπ"
+          },
+          {
+            "def": "Κροατία"
+          },
+          {
+            "def": "Żagreb"
+          },
+          {
+            "def": "Kroazja"
+          },
+          {
+            "def": "Zagreb"
+          },
+          {
+            "def": "Croatia"
+          },
+          {
+            "def": "Zagabria"
+          },
+          {
+            "def": "Croazia"
+          },
+          {
+            "def": "Zagreb"
+          },
+          {
+            "def": "Croacia"
+          },
+          {
+            "def": "Zagreb"
+          },
+          {
+            "def": "Horvaatia"
+          },
+          {
+            "def": "Záhřeb"
+          },
+          {
+            "def": "Chorvatsko"
+          },
+          {
+            "def": "Zagreb"
+          },
+          {
+            "def": "Kroazia"
+          },
+          {
+            "def": "Zagrzeb"
+          },
+          {
+            "def": "Chorwacja"
+          },
+          {
+            "def": "Zagreb"
+          },
+          {
+            "def": "Kroatien"
+          },
+          {
+            "def": "Zagreb"
+          },
+          {
+            "def": "Croația"
+          },
+          {
+            "def": "Zagreb"
+          },
+          {
+            "def": "Kroatië"
+          }
+        ],
+        "edmPlaceLabelLangAware": {
+          "de": [
+            "Zagreb",
+            "Kroatien"
+          ],
+          "fi": [
+            "Zagreb",
+            "Kroatia"
+          ],
+          "ru": [
+            "Загреб",
+            "Хорватия"
+          ],
+          "pt": [
+            "Zagreb",
+            "Croácia"
+          ],
+          "bg": [
+            "Загреб",
+            "Хърватия"
+          ],
+          "lt": [
+            "Zagrebas",
+            "Kroatija"
+          ],
+          "hr": [
+            "Zagreb",
+            "Hrvatska"
+          ],
+          "lv": [
+            "Zagreba",
+            "Horvātija"
+          ],
+          "fr": [
+            "Zagreb",
+            "Croatie"
+          ],
+          "hu": [
+            "Zágráb",
+            "Horvátország"
+          ],
+          "sk": [
+            "Záhreb",
+            "Chorvátsko"
+          ],
+          "sl": [
+            "Zagreb",
+            "Hrvaška"
+          ],
+          "ga": [
+            "Ságrab",
+            "An Chróit"
+          ],
+          "ca": [
+            "Zagreb",
+            "Croàcia"
+          ],
+          "sv": [
+            "Zagreb",
+            "Kroatien"
+          ],
+          "el": [
+            "Ζάγκρεμπ",
+            "Κροατία"
+          ],
+          "mt": [
+            "Żagreb",
+            "Kroazja"
+          ],
+          "en": [
+            "Zagreb",
+            "Croatia"
+          ],
+          "it": [
+            "Zagabria",
+            "Croazia"
+          ],
+          "es": [
+            "Zagreb",
+            "Croacia"
+          ],
+          "et": [
+            "Zagreb",
+            "Horvaatia"
+          ],
+          "cs": [
+            "Záhřeb",
+            "Chorvatsko"
+          ],
+          "eu": [
+            "Zagreb",
+            "Kroazia"
+          ],
+          "pl": [
+            "Zagrzeb",
+            "Chorwacja"
+          ],
+          "da": [
+            "Zagreb",
+            "Kroatien"
+          ],
+          "ro": [
+            "Zagreb",
+            "Croația"
+          ],
+          "nl": [
+            "Zagreb",
+            "Kroatië"
+          ]
+        },
+        "edmPlaceLatitude": [
+          "45.813057",
+          "45.25"
+        ],
+        "edmPlaceLongitude": [
+          "15.977222",
+          "15.466667"
+        ],
+        "edmPreview": [
+          "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fekultura.hr%2Fpurl%2Furl%2FPIKV3RLYOL6IB6VJLVXSXRL6A7JFVFII&type=IMAGE"
+        ],
+        "edmTimespanLabel": [
+          {
+            "def": "1969-04-24"
+          },
+          {
+            "def": "1969-04-16"
+          },
+          {
+            "def": "20. Jahrhundert"
+          },
+          {
+            "def": "1900-luku"
+          },
+          {
+            "def": "XX век"
+          },
+          {
+            "def": "Século XX"
+          },
+          {
+            "def": "20 век"
+          },
+          {
+            "def": "XX amžius"
+          },
+          {
+            "def": "20. stoljeće"
+          },
+          {
+            "def": "20. gadsimts"
+          },
+          {
+            "def": "XXe siècle"
+          },
+          {
+            "def": "20. század"
+          },
+          {
+            "def": "20. storočie"
+          },
+          {
+            "def": "20. stoletje"
+          },
+          {
+            "def": "20ú haois"
+          },
+          {
+            "def": "Segle XX"
+          },
+          {
+            "def": "1900-talet"
+          },
+          {
+            "def": "20ός αιώνας"
+          },
+          {
+            "def": "20th century"
+          },
+          {
+            "def": "XX secolo"
+          },
+          {
+            "def": "Siglo XX"
+          },
+          {
+            "def": "20. sajand"
+          },
+          {
+            "def": "20. století"
+          },
+          {
+            "def": "XX. mendea"
+          },
+          {
+            "def": "XX wiek"
+          },
+          {
+            "def": "20. århundrede"
+          },
+          {
+            "def": "Secolul al XX-lea"
+          },
+          {
+            "def": "20e eeuw"
+          },
+          {
+            "def": "http://www.wikidata.org/entity/Q6927"
+          },
+          {
+            "def": "http://id.loc.gov/authorities/names/sh2002012476"
+          },
+          {
+            "def": "http://id.loc.gov/authorities/names/sh85139020"
+          },
+          {
+            "def": "http://id.nlm.nih.gov/mesh/D049673"
+          },
+          {
+            "def": "https://www.freebase.com/m/089_x"
+          },
+          {
+            "def": "https://g.co/kg/m/089_x"
+          },
+          {
+            "def": "http://id.nlm.nih.gov/mesh/K01.400.504.968"
+          },
+          {
+            "def": "http://vocab.getty.edu/aat/300404514"
+          },
+          {
+            "def": "http://id.worldcat.org/fast/1159810"
+          },
+          {
+            "def": "http://dbpedia.org/resource/20th_century"
+          }
+        ],
+        "edmTimespanLabelLangAware": {
+          "de": [
+            "20. Jahrhundert"
+          ],
+          "fi": [
+            "1900-luku"
+          ],
+          "ru": [
+            "XX век"
+          ],
+          "pt": [
+            "Século XX"
+          ],
+          "bg": [
+            "20 век"
+          ],
+          "lt": [
+            "XX amžius"
+          ],
+          "hr": [
+            "20. stoljeće"
+          ],
+          "lv": [
+            "20. gadsimts"
+          ],
+          "fr": [
+            "XXe siècle"
+          ],
+          "hu": [
+            "20. század"
+          ],
+          "sk": [
+            "20. storočie"
+          ],
+          "sl": [
+            "20. stoletje"
+          ],
+          "ga": [
+            "20ú haois"
+          ],
+          "ca": [
+            "Segle XX"
+          ],
+          "sv": [
+            "1900-talet"
+          ],
+          "el": [
+            "20ός αιώνας"
+          ],
+          "en": [
+            "20th century"
+          ],
+          "it": [
+            "XX secolo"
+          ],
+          "es": [
+            "Siglo XX"
+          ],
+          "et": [
+            "20. sajand"
+          ],
+          "cs": [
+            "20. století"
+          ],
+          "eu": [
+            "XX. mendea"
+          ],
+          "zxx": [
+            "1969-04-24",
+            "1969-04-16"
+          ],
+          "pl": [
+            "XX wiek"
+          ],
+          "da": [
+            "20. århundrede"
+          ],
+          "ro": [
+            "Secolul al XX-lea"
+          ],
+          "nl": [
+            "20e eeuw"
+          ]
+        },
+        "europeanaCollectionName": [
+          "996_ekultura_msu"
+        ],
+        "europeanaCompleteness": 10,
+        "guid": "https://www.europeana.eu/item/996/https___ekultura_hr_purl_url_NCRNOM3XNATKAVHPJSA4TJF5WK26V77G?utm_source=api&utm_medium=api&utm_campaign=whodwicueabb",
+        "id": "/996/https___ekultura_hr_purl_url_NCRNOM3XNATKAVHPJSA4TJF5WK26V77G",
+        "index": 0,
+        "language": [
+          "hr"
+        ],
+        "link": "https://api.europeana.eu/record/996/https___ekultura_hr_purl_url_NCRNOM3XNATKAVHPJSA4TJF5WK26V77G.json?wskey=whodwicueabb",
+        "previewNoDistribute": false,
+        "provider": [
+          "EKultura.hr"
+        ],
+        "rights": [
+          "http://rightsstatements.org/vocab/InC-EDU/1.0/"
+        ],
+        "score": 55.213463,
+        "timestamp": 1752072282288,
+        "timestamp_created": "2023-09-15T07:49:49.109Z",
+        "timestamp_created_epoch": 1694764189109,
+        "timestamp_update": "2023-09-15T07:49:49.109Z",
+        "timestamp_update_epoch": 1694764189109,
+        "title": [
+          "Correspondence between Boris Kelemen and James L. Pyle (California Computer Products, Inc., Anaheim, California, USA)",
+          "Korespondencija Boris Kelemen - James L. Pyle (California Computer Products, Inc., Anaheim, Kalifornija, SAD)"
+        ],
+        "type": "IMAGE",
+        "ugc": [
+          false
+        ]
+      },
+      {
+        "completeness": 10,
+        "country": [
+          "Croatia"
+        ],
+        "dataProvider": [
+          "Museum of Contemporary Art"
+        ],
+        "dcCreator": [
+          "Kelemen, Boris",
+          "Kelemen, Boris"
+        ],
+        "dcCreatorLangAware": {
+          "en": [
+            "Kelemen, Boris"
+          ],
+          "hr": [
+            "Kelemen, Boris"
+          ]
+        },
+        "dcDescription": [
+          "Invitation to participate in T4.",
+          "Poziv za sudjelovanje na T4."
+        ],
+        "dcDescriptionLangAware": {
+          "en": [
+            "Invitation to participate in T4."
+          ],
+          "hr": [
+            "Poziv za sudjelovanje na T4."
+          ]
+        },
+        "dcTitleLangAware": {
+          "en": [
+            "Letter from Boris Kelemen to Kerry Strand (California Computer Products Inc. Anaheim, California, USA)"
+          ],
+          "hr": [
+            "Pismo Boris Kelemen, za: Kerry Strand (California Computer Products Inc. Anaheim, Kalifornija, SAD)"
+          ]
+        },
+        "edmConcept": [
+          "http://data.europeana.eu/concept/2909",
+          "http://data.europeana.eu/concept/2090",
+          "https://ekultura.hr/purl/url/XW3MM7H4YZKWITVHPAN6XHWT6LWTJKOC"
+        ],
+        "edmConceptLabel": [
+          {
+            "def": "Brief"
+          },
+          {
+            "def": "Papier"
+          },
+          {
+            "def": "Письмо"
+          },
+          {
+            "def": "Бумага"
+          },
+          {
+            "def": "Kirje"
+          },
+          {
+            "def": "Paperi"
+          },
+          {
+            "def": "Carta"
+          },
+          {
+            "def": "Papel"
+          },
+          {
+            "def": "Писмо"
+          },
+          {
+            "def": "Хартия"
+          },
+          {
+            "def": "Laiškas"
+          },
+          {
+            "def": "Popierius"
+          },
+          {
+            "def": "Vēstule"
+          },
+          {
+            "def": "Papīrs"
+          },
+          {
+            "def": "Lettre"
+          },
+          {
+            "def": "Papier"
+          },
+          {
+            "def": "Levél"
+          },
+          {
+            "def": "Papír"
+          },
+          {
+            "def": "List"
+          },
+          {
+            "def": "Papier"
+          },
+          {
+            "def": "Pismo"
+          },
+          {
+            "def": "Papir"
+          },
+          {
+            "def": "Litir"
+          },
+          {
+            "def": "Páipéar"
+          },
+          {
+            "def": "Carta"
+          },
+          {
+            "def": "Paper"
+          },
+          {
+            "def": "Brev"
+          },
+          {
+            "def": "Papper"
+          },
+          {
+            "def": "Επιστολή"
+          },
+          {
+            "def": "Χαρτί"
+          },
+          {
+            "def": "Letter"
+          },
+          {
+            "def": "Paper"
+          },
+          {
+            "def": "Lettera"
+          },
+          {
+            "def": "Carta"
+          },
+          {
+            "def": "Carta"
+          },
+          {
+            "def": "Papel"
+          },
+          {
+            "def": "Kiri"
+          },
+          {
+            "def": "Paber"
+          },
+          {
+            "def": "Dopis"
+          },
+          {
+            "def": "Papír"
+          },
+          {
+            "def": "Eskutitz"
+          },
+          {
+            "def": "Paper"
+          },
+          {
+            "def": "List"
+          },
+          {
+            "def": "Papier"
+          },
+          {
+            "def": "Brev"
+          },
+          {
+            "def": "Papir"
+          },
+          {
+            "def": "Scrisoare"
+          },
+          {
+            "def": "Hârtie"
+          },
+          {
+            "def": "Brief"
+          },
+          {
+            "def": "Papier"
+          },
+          {
+            "def": "Papir"
+          },
+          {
+            "def": "Tekstualni dokumenti"
+          },
+          {
+            "def": "Karta"
+          }
+        ],
+        "edmConceptPrefLabelLangAware": {
+          "de": [
+            "Papier",
+            "Brief"
+          ],
+          "ru": [
+            "Бумага",
+            "Письмо"
+          ],
+          "fi": [
+            "Paperi",
+            "Kirje"
+          ],
+          "pt": [
+            "Papel",
+            "Carta"
+          ],
+          "bg": [
+            "Хартия",
+            "Писмо"
+          ],
+          "lt": [
+            "Popierius",
+            "Laiškas"
+          ],
+          "lv": [
+            "Vēstule",
+            "Papīrs"
+          ],
+          "hr": [
+            "Papir",
+            "Tekstualni dokumenti"
+          ],
+          "fr": [
+            "Papier",
+            "Lettre"
+          ],
+          "hu": [
+            "Papír",
+            "Levél"
+          ],
+          "sk": [
+            "Papier",
+            "List"
+          ],
+          "sl": [
+            "Pismo",
+            "Papir"
+          ],
+          "ga": [
+            "Litir",
+            "Páipéar"
+          ],
+          "ca": [
+            "Paper",
+            "Carta"
+          ],
+          "sv": [
+            "Papper",
+            "Brev"
+          ],
+          "el": [
+            "Χαρτί",
+            "Επιστολή"
+          ],
+          "mt": [
+            "Karta"
+          ],
+          "en": [
+            "Letter",
+            "Paper"
+          ],
+          "it": [
+            "Lettera",
+            "Carta"
+          ],
+          "es": [
+            "Papel",
+            "Carta"
+          ],
+          "et": [
+            "Kiri",
+            "Paber"
+          ],
+          "cs": [
+            "Papír",
+            "Dopis"
+          ],
+          "eu": [
+            "Eskutitz",
+            "Paper"
+          ],
+          "pl": [
+            "Papier",
+            "List"
+          ],
+          "da": [
+            "Papir",
+            "Brev"
+          ],
+          "ro": [
+            "Scrisoare",
+            "Hârtie"
+          ],
+          "nl": [
+            "Papier",
+            "Brief"
+          ]
+        },
+        "edmDatasetName": [
+          "996_ekultura_msu"
+        ],
+        "edmIsShownAt": [
+          "https://ekultura.hr/purl/url/GNPW3PSS7PTDE3KE4RLEW7ADX6BWMEX3"
+        ],
+        "edmIsShownBy": [
+          "https://ekultura.hr/purl/url/CZL7Y7ZEHZBQ252REPRNRPBYCBDC6JLH"
+        ],
+        "edmPlaceAltLabel": [
+          {
+            "def": "Zagreb"
+          },
+          {
+            "def": "Agram"
+          },
+          {
+            "def": "Republik Kroatien"
+          },
+          {
+            "def": "HR"
+          },
+          {
+            "def": "HRV"
+          },
+          {
+            "def": "Zagrebe"
+          },
+          {
+            "def": "República da Croácia"
+          },
+          {
+            "def": "Zagreb, Croatia"
+          },
+          {
+            "def": "Agram"
+          },
+          {
+            "def": "City of Zagreb"
+          },
+          {
+            "def": "KK Zagreb"
+          },
+          {
+            "def": "Republic of Croatia"
+          },
+          {
+            "def": "HR"
+          },
+          {
+            "def": "HRV"
+          },
+          {
+            "def": "CRO"
+          },
+          {
+            "def": "RH"
+          },
+          {
+            "def": "Agram"
+          },
+          {
+            "def": "Republika Hrvatska"
+          },
+          {
+            "def": "RH"
+          },
+          {
+            "def": "Agram"
+          },
+          {
+            "def": "Repubblica di Croazia"
+          },
+          {
+            "def": "Республика Хорватия"
+          },
+          {
+            "def": "Republiken Kroatien"
+          },
+          {
+            "def": "Kroatian tasavalta"
+          },
+          {
+            "def": "Република Хърватия"
+          },
+          {
+            "def": "Хърватска"
+          },
+          {
+            "def": "Repubblika tal-Kroazja"
+          },
+          {
+            "def": "HR"
+          },
+          {
+            "def": "La République de Croatie"
+          },
+          {
+            "def": "Horvát Köztársaság"
+          },
+          {
+            "def": "República de Croacia"
+          },
+          {
+            "def": "Republica de Croacia"
+          },
+          {
+            "def": "Chorvátska republika"
+          },
+          {
+            "def": "Hrvatska"
+          },
+          {
+            "def": "Republika Chorwacji"
+          },
+          {
+            "def": "Republikken Kroatien"
+          },
+          {
+            "def": "KRO"
+          },
+          {
+            "def": "Republiek Kroatië"
+          },
+          {
+            "def": "Kroatie"
+          },
+          {
+            "def": "HR"
+          },
+          {
+            "def": "HRV"
+          }
+        ],
+        "edmPlaceAltLabelLangAware": {
+          "de": [
+            "Agram",
+            "Republik Kroatien",
+            "HR",
+            "HRV"
+          ],
+          "ru": [
+            "Республика Хорватия"
+          ],
+          "sv": [
+            "Republiken Kroatien"
+          ],
+          "fi": [
+            "Kroatian tasavalta"
+          ],
+          "pt": [
+            "Zagrebe",
+            "República da Croácia"
+          ],
+          "bg": [
+            "Република Хърватия",
+            "Хърватска"
+          ],
+          "mt": [
+            "Repubblika tal-Kroazja"
+          ],
+          "en": [
+            "Zagreb, Croatia",
+            "Agram",
+            "City of Zagreb",
+            "KK Zagreb",
+            "Republic of Croatia",
+            "HR",
+            "HRV",
+            "CRO",
+            "RH"
+          ],
+          "hr": [
+            "Agram",
+            "Republika Hrvatska",
+            "RH"
+          ],
+          "it": [
+            "Agram",
+            "Repubblica di Croazia"
+          ],
+          "fr": [
+            "HR",
+            "La République de Croatie"
+          ],
+          "hu": [
+            "Horvát Köztársaság"
+          ],
+          "es": [
+            "República de Croacia",
+            "Republica de Croacia"
+          ],
+          "cs": [
+            "Zagreb"
+          ],
+          "sk": [
+            "Chorvátska republika"
+          ],
+          "pl": [
+            "Hrvatska",
+            "Republika Chorwacji"
+          ],
+          "da": [
+            "Republikken Kroatien",
+            "KRO"
+          ],
+          "nl": [
+            "Republiek Kroatië",
+            "Kroatie",
+            "HR",
+            "HRV"
+          ]
+        },
+        "edmPlaceLabel": [
+          {
+            "def": "Zagreb"
+          },
+          {
+            "def": "Kroatien"
+          },
+          {
+            "def": "Zagreb"
+          },
+          {
+            "def": "Kroatia"
+          },
+          {
+            "def": "Загреб"
+          },
+          {
+            "def": "Хорватия"
+          },
+          {
+            "def": "Zagreb"
+          },
+          {
+            "def": "Croácia"
+          },
+          {
+            "def": "Загреб"
+          },
+          {
+            "def": "Хърватия"
+          },
+          {
+            "def": "Zagrebas"
+          },
+          {
+            "def": "Kroatija"
+          },
+          {
+            "def": "Zagreb"
+          },
+          {
+            "def": "Hrvatska"
+          },
+          {
+            "def": "Zagreba"
+          },
+          {
+            "def": "Horvātija"
+          },
+          {
+            "def": "Zagreb"
+          },
+          {
+            "def": "Croatie"
+          },
+          {
+            "def": "Zágráb"
+          },
+          {
+            "def": "Horvátország"
+          },
+          {
+            "def": "Záhreb"
+          },
+          {
+            "def": "Chorvátsko"
+          },
+          {
+            "def": "Zagreb"
+          },
+          {
+            "def": "Hrvaška"
+          },
+          {
+            "def": "Ságrab"
+          },
+          {
+            "def": "An Chróit"
+          },
+          {
+            "def": "Zagreb"
+          },
+          {
+            "def": "Croàcia"
+          },
+          {
+            "def": "Zagreb"
+          },
+          {
+            "def": "Kroatien"
+          },
+          {
+            "def": "Ζάγκρεμπ"
+          },
+          {
+            "def": "Κροατία"
+          },
+          {
+            "def": "Żagreb"
+          },
+          {
+            "def": "Kroazja"
+          },
+          {
+            "def": "Zagreb"
+          },
+          {
+            "def": "Croatia"
+          },
+          {
+            "def": "Zagabria"
+          },
+          {
+            "def": "Croazia"
+          },
+          {
+            "def": "Zagreb"
+          },
+          {
+            "def": "Croacia"
+          },
+          {
+            "def": "Zagreb"
+          },
+          {
+            "def": "Horvaatia"
+          },
+          {
+            "def": "Záhřeb"
+          },
+          {
+            "def": "Chorvatsko"
+          },
+          {
+            "def": "Zagreb"
+          },
+          {
+            "def": "Kroazia"
+          },
+          {
+            "def": "Zagrzeb"
+          },
+          {
+            "def": "Chorwacja"
+          },
+          {
+            "def": "Zagreb"
+          },
+          {
+            "def": "Kroatien"
+          },
+          {
+            "def": "Zagreb"
+          },
+          {
+            "def": "Croația"
+          },
+          {
+            "def": "Zagreb"
+          },
+          {
+            "def": "Kroatië"
+          }
+        ],
+        "edmPlaceLabelLangAware": {
+          "de": [
+            "Zagreb",
+            "Kroatien"
+          ],
+          "fi": [
+            "Zagreb",
+            "Kroatia"
+          ],
+          "ru": [
+            "Загреб",
+            "Хорватия"
+          ],
+          "pt": [
+            "Zagreb",
+            "Croácia"
+          ],
+          "bg": [
+            "Загреб",
+            "Хърватия"
+          ],
+          "lt": [
+            "Zagrebas",
+            "Kroatija"
+          ],
+          "hr": [
+            "Zagreb",
+            "Hrvatska"
+          ],
+          "lv": [
+            "Zagreba",
+            "Horvātija"
+          ],
+          "fr": [
+            "Zagreb",
+            "Croatie"
+          ],
+          "hu": [
+            "Zágráb",
+            "Horvátország"
+          ],
+          "sk": [
+            "Záhreb",
+            "Chorvátsko"
+          ],
+          "sl": [
+            "Zagreb",
+            "Hrvaška"
+          ],
+          "ga": [
+            "Ságrab",
+            "An Chróit"
+          ],
+          "ca": [
+            "Zagreb",
+            "Croàcia"
+          ],
+          "sv": [
+            "Zagreb",
+            "Kroatien"
+          ],
+          "el": [
+            "Ζάγκρεμπ",
+            "Κροατία"
+          ],
+          "mt": [
+            "Żagreb",
+            "Kroazja"
+          ],
+          "en": [
+            "Zagreb",
+            "Croatia"
+          ],
+          "it": [
+            "Zagabria",
+            "Croazia"
+          ],
+          "es": [
+            "Zagreb",
+            "Croacia"
+          ],
+          "et": [
+            "Zagreb",
+            "Horvaatia"
+          ],
+          "cs": [
+            "Záhřeb",
+            "Chorvatsko"
+          ],
+          "eu": [
+            "Zagreb",
+            "Kroazia"
+          ],
+          "pl": [
+            "Zagrzeb",
+            "Chorwacja"
+          ],
+          "da": [
+            "Zagreb",
+            "Kroatien"
+          ],
+          "ro": [
+            "Zagreb",
+            "Croația"
+          ],
+          "nl": [
+            "Zagreb",
+            "Kroatië"
+          ]
+        },
+        "edmPlaceLatitude": [
+          "45.813057",
+          "45.25"
+        ],
+        "edmPlaceLongitude": [
+          "15.977222",
+          "15.466667"
+        ],
+        "edmPreview": [
+          "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fekultura.hr%2Fpurl%2Furl%2FTFZMVYH3E34WA4JNWA34WUCXPFK36YWK&type=IMAGE"
+        ],
+        "edmTimespanLabel": [
+          {
+            "def": "1969-03-31"
+          },
+          {
+            "def": "20. Jahrhundert"
+          },
+          {
+            "def": "1900-luku"
+          },
+          {
+            "def": "XX век"
+          },
+          {
+            "def": "Século XX"
+          },
+          {
+            "def": "20 век"
+          },
+          {
+            "def": "XX amžius"
+          },
+          {
+            "def": "20. stoljeće"
+          },
+          {
+            "def": "20. gadsimts"
+          },
+          {
+            "def": "XXe siècle"
+          },
+          {
+            "def": "20. század"
+          },
+          {
+            "def": "20. storočie"
+          },
+          {
+            "def": "20. stoletje"
+          },
+          {
+            "def": "20ú haois"
+          },
+          {
+            "def": "Segle XX"
+          },
+          {
+            "def": "1900-talet"
+          },
+          {
+            "def": "20ός αιώνας"
+          },
+          {
+            "def": "20th century"
+          },
+          {
+            "def": "XX secolo"
+          },
+          {
+            "def": "Siglo XX"
+          },
+          {
+            "def": "20. sajand"
+          },
+          {
+            "def": "20. století"
+          },
+          {
+            "def": "XX. mendea"
+          },
+          {
+            "def": "XX wiek"
+          },
+          {
+            "def": "20. århundrede"
+          },
+          {
+            "def": "Secolul al XX-lea"
+          },
+          {
+            "def": "20e eeuw"
+          },
+          {
+            "def": "http://www.wikidata.org/entity/Q6927"
+          },
+          {
+            "def": "http://id.loc.gov/authorities/names/sh2002012476"
+          },
+          {
+            "def": "http://id.loc.gov/authorities/names/sh85139020"
+          },
+          {
+            "def": "http://id.nlm.nih.gov/mesh/D049673"
+          },
+          {
+            "def": "https://www.freebase.com/m/089_x"
+          },
+          {
+            "def": "https://g.co/kg/m/089_x"
+          },
+          {
+            "def": "http://id.nlm.nih.gov/mesh/K01.400.504.968"
+          },
+          {
+            "def": "http://vocab.getty.edu/aat/300404514"
+          },
+          {
+            "def": "http://id.worldcat.org/fast/1159810"
+          },
+          {
+            "def": "http://dbpedia.org/resource/20th_century"
+          }
+        ],
+        "edmTimespanLabelLangAware": {
+          "de": [
+            "20. Jahrhundert"
+          ],
+          "fi": [
+            "1900-luku"
+          ],
+          "ru": [
+            "XX век"
+          ],
+          "pt": [
+            "Século XX"
+          ],
+          "bg": [
+            "20 век"
+          ],
+          "lt": [
+            "XX amžius"
+          ],
+          "hr": [
+            "20. stoljeće"
+          ],
+          "lv": [
+            "20. gadsimts"
+          ],
+          "fr": [
+            "XXe siècle"
+          ],
+          "hu": [
+            "20. század"
+          ],
+          "sk": [
+            "20. storočie"
+          ],
+          "sl": [
+            "20. stoletje"
+          ],
+          "ga": [
+            "20ú haois"
+          ],
+          "ca": [
+            "Segle XX"
+          ],
+          "sv": [
+            "1900-talet"
+          ],
+          "el": [
+            "20ός αιώνας"
+          ],
+          "en": [
+            "20th century"
+          ],
+          "it": [
+            "XX secolo"
+          ],
+          "es": [
+            "Siglo XX"
+          ],
+          "et": [
+            "20. sajand"
+          ],
+          "cs": [
+            "20. století"
+          ],
+          "eu": [
+            "XX. mendea"
+          ],
+          "zxx": [
+            "1969-03-31"
+          ],
+          "pl": [
+            "XX wiek"
+          ],
+          "da": [
+            "20. århundrede"
+          ],
+          "ro": [
+            "Secolul al XX-lea"
+          ],
+          "nl": [
+            "20e eeuw"
+          ]
+        },
+        "europeanaCollectionName": [
+          "996_ekultura_msu"
+        ],
+        "europeanaCompleteness": 10,
+        "guid": "https://www.europeana.eu/item/996/https___ekultura_hr_purl_url_GNPW3PSS7PTDE3KE4RLEW7ADX6BWMEX3?utm_source=api&utm_medium=api&utm_campaign=whodwicueabb",
+        "id": "/996/https___ekultura_hr_purl_url_GNPW3PSS7PTDE3KE4RLEW7ADX6BWMEX3",
+        "index": 0,
+        "language": [
+          "hr"
+        ],
+        "link": "https://api.europeana.eu/record/996/https___ekultura_hr_purl_url_GNPW3PSS7PTDE3KE4RLEW7ADX6BWMEX3.json?wskey=whodwicueabb",
+        "previewNoDistribute": false,
+        "provider": [
+          "EKultura.hr"
+        ],
+        "rights": [
+          "http://rightsstatements.org/vocab/InC-EDU/1.0/"
+        ],
+        "score": 55.905735,
+        "timestamp": 1752072308034,
+        "timestamp_created": "2023-09-15T07:49:49.109Z",
+        "timestamp_created_epoch": 1694764189109,
+        "timestamp_update": "2023-09-15T07:49:49.109Z",
+        "timestamp_update_epoch": 1694764189109,
+        "title": [
+          "Letter from Boris Kelemen to Kerry Strand (California Computer Products Inc. Anaheim, California, USA)",
+          "Pismo Boris Kelemen, za: Kerry Strand (California Computer Products Inc. Anaheim, Kalifornija, SAD)"
+        ],
+        "type": "IMAGE",
+        "ugc": [
+          false
+        ]
+      },
+      {
+        "completeness": 10,
+        "country": [
+          "Croatia"
+        ],
+        "dataProvider": [
+          "Museum of Contemporary Art"
+        ],
+        "dcCreator": [
+          "Kelemen, Boris",
+          "Kelemen, Boris"
+        ],
+        "dcCreatorLangAware": {
+          "en": [
+            "Kelemen, Boris"
+          ],
+          "hr": [
+            "Kelemen, Boris"
+          ]
+        },
+        "dcDescription": [
+          "Invitation to participate in T4.",
+          "Poziv za sudjelovanje na T4."
+        ],
+        "dcDescriptionLangAware": {
+          "en": [
+            "Invitation to participate in T4."
+          ],
+          "hr": [
+            "Poziv za sudjelovanje na T4."
+          ]
+        },
+        "dcTitleLangAware": {
+          "en": [
+            "Letter from Boris Kelemen to Paul H. Sobel (Jet Propulsion Laboratory, Pasadena, California, USA)"
+          ],
+          "hr": [
+            "Pismo Boris Kelemen, za: Paul H. Sobel (Jet Propulsion Laboratory, Pasadena, Kalifornija, SAD)"
+          ]
+        },
+        "edmConcept": [
+          "https://ekultura.hr/purl/url/RJEUFDYRNUX2HHDNGX4ZLA7AEAD6SB4L",
+          "http://data.europeana.eu/concept/2909",
+          "http://data.europeana.eu/concept/2090"
+        ],
+        "edmConceptLabel": [
+          {
+            "def": "Tekstualni dokumenti"
+          },
+          {
+            "def": "Papir"
+          },
+          {
+            "def": "Brief"
+          },
+          {
+            "def": "Papier"
+          },
+          {
+            "def": "Письмо"
+          },
+          {
+            "def": "Бумага"
+          },
+          {
+            "def": "Kirje"
+          },
+          {
+            "def": "Paperi"
+          },
+          {
+            "def": "Carta"
+          },
+          {
+            "def": "Papel"
+          },
+          {
+            "def": "Писмо"
+          },
+          {
+            "def": "Хартия"
+          },
+          {
+            "def": "Laiškas"
+          },
+          {
+            "def": "Popierius"
+          },
+          {
+            "def": "Vēstule"
+          },
+          {
+            "def": "Papīrs"
+          },
+          {
+            "def": "Lettre"
+          },
+          {
+            "def": "Papier"
+          },
+          {
+            "def": "Levél"
+          },
+          {
+            "def": "Papír"
+          },
+          {
+            "def": "List"
+          },
+          {
+            "def": "Papier"
+          },
+          {
+            "def": "Pismo"
+          },
+          {
+            "def": "Papir"
+          },
+          {
+            "def": "Litir"
+          },
+          {
+            "def": "Páipéar"
+          },
+          {
+            "def": "Carta"
+          },
+          {
+            "def": "Paper"
+          },
+          {
+            "def": "Brev"
+          },
+          {
+            "def": "Papper"
+          },
+          {
+            "def": "Επιστολή"
+          },
+          {
+            "def": "Χαρτί"
+          },
+          {
+            "def": "Letter"
+          },
+          {
+            "def": "Paper"
+          },
+          {
+            "def": "Lettera"
+          },
+          {
+            "def": "Carta"
+          },
+          {
+            "def": "Carta"
+          },
+          {
+            "def": "Papel"
+          },
+          {
+            "def": "Kiri"
+          },
+          {
+            "def": "Paber"
+          },
+          {
+            "def": "Dopis"
+          },
+          {
+            "def": "Papír"
+          },
+          {
+            "def": "Eskutitz"
+          },
+          {
+            "def": "Paper"
+          },
+          {
+            "def": "List"
+          },
+          {
+            "def": "Papier"
+          },
+          {
+            "def": "Brev"
+          },
+          {
+            "def": "Papir"
+          },
+          {
+            "def": "Scrisoare"
+          },
+          {
+            "def": "Hârtie"
+          },
+          {
+            "def": "Brief"
+          },
+          {
+            "def": "Papier"
+          },
+          {
+            "def": "Karta"
+          }
+        ],
+        "edmConceptPrefLabelLangAware": {
+          "de": [
+            "Papier",
+            "Brief"
+          ],
+          "ru": [
+            "Бумага",
+            "Письмо"
+          ],
+          "fi": [
+            "Paperi",
+            "Kirje"
+          ],
+          "pt": [
+            "Papel",
+            "Carta"
+          ],
+          "bg": [
+            "Хартия",
+            "Писмо"
+          ],
+          "lt": [
+            "Popierius",
+            "Laiškas"
+          ],
+          "hr": [
+            "Tekstualni dokumenti",
+            "Papir"
+          ],
+          "lv": [
+            "Vēstule",
+            "Papīrs"
+          ],
+          "fr": [
+            "Papier",
+            "Lettre"
+          ],
+          "hu": [
+            "Papír",
+            "Levél"
+          ],
+          "sk": [
+            "Papier",
+            "List"
+          ],
+          "sl": [
+            "Pismo",
+            "Papir"
+          ],
+          "ga": [
+            "Litir",
+            "Páipéar"
+          ],
+          "ca": [
+            "Paper",
+            "Carta"
+          ],
+          "sv": [
+            "Papper",
+            "Brev"
+          ],
+          "el": [
+            "Χαρτί",
+            "Επιστολή"
+          ],
+          "mt": [
+            "Karta"
+          ],
+          "en": [
+            "Letter",
+            "Paper"
+          ],
+          "it": [
+            "Lettera",
+            "Carta"
+          ],
+          "es": [
+            "Papel",
+            "Carta"
+          ],
+          "et": [
+            "Kiri",
+            "Paber"
+          ],
+          "cs": [
+            "Papír",
+            "Dopis"
+          ],
+          "eu": [
+            "Eskutitz",
+            "Paper"
+          ],
+          "pl": [
+            "Papier",
+            "List"
+          ],
+          "da": [
+            "Papir",
+            "Brev"
+          ],
+          "ro": [
+            "Scrisoare",
+            "Hârtie"
+          ],
+          "nl": [
+            "Papier",
+            "Brief"
+          ]
+        },
+        "edmDatasetName": [
+          "996_ekultura_msu"
+        ],
+        "edmIsShownAt": [
+          "https://ekultura.hr/purl/url/CFCJDE6XYBTZ3ZTKGZGFB3VIDYGJFZM3"
+        ],
+        "edmIsShownBy": [
+          "https://ekultura.hr/purl/url/57DZ6A3MGN6TAKXPXX7XHVQUCAA4ESJX"
+        ],
+        "edmPlaceAltLabel": [
+          {
+            "def": "Zagreb"
+          },
+          {
+            "def": "Agram"
+          },
+          {
+            "def": "Republik Kroatien"
+          },
+          {
+            "def": "HR"
+          },
+          {
+            "def": "HRV"
+          },
+          {
+            "def": "Zagrebe"
+          },
+          {
+            "def": "República da Croácia"
+          },
+          {
+            "def": "Zagreb, Croatia"
+          },
+          {
+            "def": "Agram"
+          },
+          {
+            "def": "City of Zagreb"
+          },
+          {
+            "def": "KK Zagreb"
+          },
+          {
+            "def": "Republic of Croatia"
+          },
+          {
+            "def": "HR"
+          },
+          {
+            "def": "HRV"
+          },
+          {
+            "def": "CRO"
+          },
+          {
+            "def": "RH"
+          },
+          {
+            "def": "Agram"
+          },
+          {
+            "def": "Republika Hrvatska"
+          },
+          {
+            "def": "RH"
+          },
+          {
+            "def": "Agram"
+          },
+          {
+            "def": "Repubblica di Croazia"
+          },
+          {
+            "def": "Республика Хорватия"
+          },
+          {
+            "def": "Republiken Kroatien"
+          },
+          {
+            "def": "Kroatian tasavalta"
+          },
+          {
+            "def": "Република Хърватия"
+          },
+          {
+            "def": "Хърватска"
+          },
+          {
+            "def": "Repubblika tal-Kroazja"
+          },
+          {
+            "def": "HR"
+          },
+          {
+            "def": "La République de Croatie"
+          },
+          {
+            "def": "Horvát Köztársaság"
+          },
+          {
+            "def": "República de Croacia"
+          },
+          {
+            "def": "Republica de Croacia"
+          },
+          {
+            "def": "Chorvátska republika"
+          },
+          {
+            "def": "Hrvatska"
+          },
+          {
+            "def": "Republika Chorwacji"
+          },
+          {
+            "def": "Republikken Kroatien"
+          },
+          {
+            "def": "KRO"
+          },
+          {
+            "def": "Republiek Kroatië"
+          },
+          {
+            "def": "Kroatie"
+          },
+          {
+            "def": "HR"
+          },
+          {
+            "def": "HRV"
+          }
+        ],
+        "edmPlaceAltLabelLangAware": {
+          "de": [
+            "Agram",
+            "Republik Kroatien",
+            "HR",
+            "HRV"
+          ],
+          "ru": [
+            "Республика Хорватия"
+          ],
+          "sv": [
+            "Republiken Kroatien"
+          ],
+          "fi": [
+            "Kroatian tasavalta"
+          ],
+          "pt": [
+            "Zagrebe",
+            "República da Croácia"
+          ],
+          "bg": [
+            "Република Хърватия",
+            "Хърватска"
+          ],
+          "mt": [
+            "Repubblika tal-Kroazja"
+          ],
+          "en": [
+            "Zagreb, Croatia",
+            "Agram",
+            "City of Zagreb",
+            "KK Zagreb",
+            "Republic of Croatia",
+            "HR",
+            "HRV",
+            "CRO",
+            "RH"
+          ],
+          "hr": [
+            "Agram",
+            "Republika Hrvatska",
+            "RH"
+          ],
+          "it": [
+            "Agram",
+            "Repubblica di Croazia"
+          ],
+          "fr": [
+            "HR",
+            "La République de Croatie"
+          ],
+          "hu": [
+            "Horvát Köztársaság"
+          ],
+          "es": [
+            "República de Croacia",
+            "Republica de Croacia"
+          ],
+          "cs": [
+            "Zagreb"
+          ],
+          "sk": [
+            "Chorvátska republika"
+          ],
+          "pl": [
+            "Hrvatska",
+            "Republika Chorwacji"
+          ],
+          "da": [
+            "Republikken Kroatien",
+            "KRO"
+          ],
+          "nl": [
+            "Republiek Kroatië",
+            "Kroatie",
+            "HR",
+            "HRV"
+          ]
+        },
+        "edmPlaceLabel": [
+          {
+            "def": "Zagreb"
+          },
+          {
+            "def": "Kroatien"
+          },
+          {
+            "def": "Zagreb"
+          },
+          {
+            "def": "Kroatia"
+          },
+          {
+            "def": "Загреб"
+          },
+          {
+            "def": "Хорватия"
+          },
+          {
+            "def": "Zagreb"
+          },
+          {
+            "def": "Croácia"
+          },
+          {
+            "def": "Загреб"
+          },
+          {
+            "def": "Хърватия"
+          },
+          {
+            "def": "Zagrebas"
+          },
+          {
+            "def": "Kroatija"
+          },
+          {
+            "def": "Zagreb"
+          },
+          {
+            "def": "Hrvatska"
+          },
+          {
+            "def": "Zagreba"
+          },
+          {
+            "def": "Horvātija"
+          },
+          {
+            "def": "Zagreb"
+          },
+          {
+            "def": "Croatie"
+          },
+          {
+            "def": "Zágráb"
+          },
+          {
+            "def": "Horvátország"
+          },
+          {
+            "def": "Záhreb"
+          },
+          {
+            "def": "Chorvátsko"
+          },
+          {
+            "def": "Zagreb"
+          },
+          {
+            "def": "Hrvaška"
+          },
+          {
+            "def": "Ságrab"
+          },
+          {
+            "def": "An Chróit"
+          },
+          {
+            "def": "Zagreb"
+          },
+          {
+            "def": "Croàcia"
+          },
+          {
+            "def": "Zagreb"
+          },
+          {
+            "def": "Kroatien"
+          },
+          {
+            "def": "Ζάγκρεμπ"
+          },
+          {
+            "def": "Κροατία"
+          },
+          {
+            "def": "Żagreb"
+          },
+          {
+            "def": "Kroazja"
+          },
+          {
+            "def": "Zagreb"
+          },
+          {
+            "def": "Croatia"
+          },
+          {
+            "def": "Zagabria"
+          },
+          {
+            "def": "Croazia"
+          },
+          {
+            "def": "Zagreb"
+          },
+          {
+            "def": "Croacia"
+          },
+          {
+            "def": "Zagreb"
+          },
+          {
+            "def": "Horvaatia"
+          },
+          {
+            "def": "Záhřeb"
+          },
+          {
+            "def": "Chorvatsko"
+          },
+          {
+            "def": "Zagreb"
+          },
+          {
+            "def": "Kroazia"
+          },
+          {
+            "def": "Zagrzeb"
+          },
+          {
+            "def": "Chorwacja"
+          },
+          {
+            "def": "Zagreb"
+          },
+          {
+            "def": "Kroatien"
+          },
+          {
+            "def": "Zagreb"
+          },
+          {
+            "def": "Croația"
+          },
+          {
+            "def": "Zagreb"
+          },
+          {
+            "def": "Kroatië"
+          }
+        ],
+        "edmPlaceLabelLangAware": {
+          "de": [
+            "Zagreb",
+            "Kroatien"
+          ],
+          "fi": [
+            "Zagreb",
+            "Kroatia"
+          ],
+          "ru": [
+            "Загреб",
+            "Хорватия"
+          ],
+          "pt": [
+            "Zagreb",
+            "Croácia"
+          ],
+          "bg": [
+            "Загреб",
+            "Хърватия"
+          ],
+          "lt": [
+            "Zagrebas",
+            "Kroatija"
+          ],
+          "hr": [
+            "Zagreb",
+            "Hrvatska"
+          ],
+          "lv": [
+            "Zagreba",
+            "Horvātija"
+          ],
+          "fr": [
+            "Zagreb",
+            "Croatie"
+          ],
+          "hu": [
+            "Zágráb",
+            "Horvátország"
+          ],
+          "sk": [
+            "Záhreb",
+            "Chorvátsko"
+          ],
+          "sl": [
+            "Zagreb",
+            "Hrvaška"
+          ],
+          "ga": [
+            "Ságrab",
+            "An Chróit"
+          ],
+          "ca": [
+            "Zagreb",
+            "Croàcia"
+          ],
+          "sv": [
+            "Zagreb",
+            "Kroatien"
+          ],
+          "el": [
+            "Ζάγκρεμπ",
+            "Κροατία"
+          ],
+          "mt": [
+            "Żagreb",
+            "Kroazja"
+          ],
+          "en": [
+            "Zagreb",
+            "Croatia"
+          ],
+          "it": [
+            "Zagabria",
+            "Croazia"
+          ],
+          "es": [
+            "Zagreb",
+            "Croacia"
+          ],
+          "et": [
+            "Zagreb",
+            "Horvaatia"
+          ],
+          "cs": [
+            "Záhřeb",
+            "Chorvatsko"
+          ],
+          "eu": [
+            "Zagreb",
+            "Kroazia"
+          ],
+          "pl": [
+            "Zagrzeb",
+            "Chorwacja"
+          ],
+          "da": [
+            "Zagreb",
+            "Kroatien"
+          ],
+          "ro": [
+            "Zagreb",
+            "Croația"
+          ],
+          "nl": [
+            "Zagreb",
+            "Kroatië"
+          ]
+        },
+        "edmPlaceLatitude": [
+          "45.813057",
+          "45.25"
+        ],
+        "edmPlaceLongitude": [
+          "15.977222",
+          "15.466667"
+        ],
+        "edmPreview": [
+          "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fekultura.hr%2Fpurl%2Furl%2FQAUIONZQ2OW2CJHDC3TZ2LIZJDUIRRHN&type=IMAGE"
+        ],
+        "edmTimespanLabel": [
+          {
+            "def": "1969-03-31"
+          },
+          {
+            "def": "20. Jahrhundert"
+          },
+          {
+            "def": "1900-luku"
+          },
+          {
+            "def": "XX век"
+          },
+          {
+            "def": "Século XX"
+          },
+          {
+            "def": "20 век"
+          },
+          {
+            "def": "XX amžius"
+          },
+          {
+            "def": "20. stoljeće"
+          },
+          {
+            "def": "20. gadsimts"
+          },
+          {
+            "def": "XXe siècle"
+          },
+          {
+            "def": "20. század"
+          },
+          {
+            "def": "20. storočie"
+          },
+          {
+            "def": "20. stoletje"
+          },
+          {
+            "def": "20ú haois"
+          },
+          {
+            "def": "Segle XX"
+          },
+          {
+            "def": "1900-talet"
+          },
+          {
+            "def": "20ός αιώνας"
+          },
+          {
+            "def": "20th century"
+          },
+          {
+            "def": "XX secolo"
+          },
+          {
+            "def": "Siglo XX"
+          },
+          {
+            "def": "20. sajand"
+          },
+          {
+            "def": "20. století"
+          },
+          {
+            "def": "XX. mendea"
+          },
+          {
+            "def": "XX wiek"
+          },
+          {
+            "def": "20. århundrede"
+          },
+          {
+            "def": "Secolul al XX-lea"
+          },
+          {
+            "def": "20e eeuw"
+          },
+          {
+            "def": "http://www.wikidata.org/entity/Q6927"
+          },
+          {
+            "def": "http://id.loc.gov/authorities/names/sh2002012476"
+          },
+          {
+            "def": "http://id.loc.gov/authorities/names/sh85139020"
+          },
+          {
+            "def": "http://id.nlm.nih.gov/mesh/D049673"
+          },
+          {
+            "def": "https://www.freebase.com/m/089_x"
+          },
+          {
+            "def": "https://g.co/kg/m/089_x"
+          },
+          {
+            "def": "http://id.nlm.nih.gov/mesh/K01.400.504.968"
+          },
+          {
+            "def": "http://vocab.getty.edu/aat/300404514"
+          },
+          {
+            "def": "http://id.worldcat.org/fast/1159810"
+          },
+          {
+            "def": "http://dbpedia.org/resource/20th_century"
+          }
+        ],
+        "edmTimespanLabelLangAware": {
+          "de": [
+            "20. Jahrhundert"
+          ],
+          "fi": [
+            "1900-luku"
+          ],
+          "ru": [
+            "XX век"
+          ],
+          "pt": [
+            "Século XX"
+          ],
+          "bg": [
+            "20 век"
+          ],
+          "lt": [
+            "XX amžius"
+          ],
+          "hr": [
+            "20. stoljeće"
+          ],
+          "lv": [
+            "20. gadsimts"
+          ],
+          "fr": [
+            "XXe siècle"
+          ],
+          "hu": [
+            "20. század"
+          ],
+          "sk": [
+            "20. storočie"
+          ],
+          "sl": [
+            "20. stoletje"
+          ],
+          "ga": [
+            "20ú haois"
+          ],
+          "ca": [
+            "Segle XX"
+          ],
+          "sv": [
+            "1900-talet"
+          ],
+          "el": [
+            "20ός αιώνας"
+          ],
+          "en": [
+            "20th century"
+          ],
+          "it": [
+            "XX secolo"
+          ],
+          "es": [
+            "Siglo XX"
+          ],
+          "et": [
+            "20. sajand"
+          ],
+          "cs": [
+            "20. století"
+          ],
+          "eu": [
+            "XX. mendea"
+          ],
+          "zxx": [
+            "1969-03-31"
+          ],
+          "pl": [
+            "XX wiek"
+          ],
+          "da": [
+            "20. århundrede"
+          ],
+          "ro": [
+            "Secolul al XX-lea"
+          ],
+          "nl": [
+            "20e eeuw"
+          ]
+        },
+        "europeanaCollectionName": [
+          "996_ekultura_msu"
+        ],
+        "europeanaCompleteness": 10,
+        "guid": "https://www.europeana.eu/item/996/https___ekultura_hr_purl_url_CFCJDE6XYBTZ3ZTKGZGFB3VIDYGJFZM3?utm_source=api&utm_medium=api&utm_campaign=whodwicueabb",
+        "id": "/996/https___ekultura_hr_purl_url_CFCJDE6XYBTZ3ZTKGZGFB3VIDYGJFZM3",
+        "index": 0,
+        "language": [
+          "hr"
+        ],
+        "link": "https://api.europeana.eu/record/996/https___ekultura_hr_purl_url_CFCJDE6XYBTZ3ZTKGZGFB3VIDYGJFZM3.json?wskey=whodwicueabb",
+        "previewNoDistribute": false,
+        "provider": [
+          "EKultura.hr"
+        ],
+        "rights": [
+          "http://rightsstatements.org/vocab/InC-EDU/1.0/"
+        ],
+        "score": 29.502945,
+        "timestamp": 1752072295465,
+        "timestamp_created": "2023-09-15T07:49:49.109Z",
+        "timestamp_created_epoch": 1694764189109,
+        "timestamp_update": "2023-09-15T07:49:49.109Z",
+        "timestamp_update_epoch": 1694764189109,
+        "title": [
+          "Letter from Boris Kelemen to Paul H. Sobel (Jet Propulsion Laboratory, Pasadena, California, USA)",
+          "Pismo Boris Kelemen, za: Paul H. Sobel (Jet Propulsion Laboratory, Pasadena, Kalifornija, SAD)"
+        ],
+        "type": "IMAGE",
+        "ugc": [
+          false
+        ]
+      },
+      {
+        "completeness": 10,
+        "country": [
+          "Croatia"
+        ],
+        "dataProvider": [
+          "Museum of Contemporary Art"
+        ],
+        "dcCreator": [
+          "Kelemen, Boris",
+          "Kelemen, Boris"
+        ],
+        "dcCreatorLangAware": {
+          "en": [
+            "Kelemen, Boris"
+          ],
+          "hr": [
+            "Kelemen, Boris"
+          ]
+        },
+        "dcDescription": [
+          "Invitation to participate in T4.",
+          "Poziv za sudjelovanje na T4."
+        ],
+        "dcDescriptionLangAware": {
+          "en": [
+            "Invitation to participate in T4."
+          ],
+          "hr": [
+            "Poziv za sudjelovanje na T4."
+          ]
+        },
+        "dcTitleLangAware": {
+          "en": [
+            "Letter from Boris Kelemen to Larry Jenkins (California Computer Products, Inc., Anaheim, California, USA)"
+          ],
+          "hr": [
+            "Pismo Boris Kelemen, za: Larry Jenkins (California Computer Products, Inc., Anaheim, Kalifornija, SAD)"
+          ]
+        },
+        "edmConcept": [
+          "http://data.europeana.eu/concept/2909",
+          "https://ekultura.hr/purl/url/TGL5KGA7V5WRCIRPTU5I3ENB4PYGNLGS",
+          "http://data.europeana.eu/concept/2090"
+        ],
+        "edmConceptLabel": [
+          {
+            "def": "Brief"
+          },
+          {
+            "def": "Papier"
+          },
+          {
+            "def": "Письмо"
+          },
+          {
+            "def": "Бумага"
+          },
+          {
+            "def": "Kirje"
+          },
+          {
+            "def": "Paperi"
+          },
+          {
+            "def": "Carta"
+          },
+          {
+            "def": "Papel"
+          },
+          {
+            "def": "Писмо"
+          },
+          {
+            "def": "Хартия"
+          },
+          {
+            "def": "Laiškas"
+          },
+          {
+            "def": "Popierius"
+          },
+          {
+            "def": "Vēstule"
+          },
+          {
+            "def": "Papīrs"
+          },
+          {
+            "def": "Lettre"
+          },
+          {
+            "def": "Papier"
+          },
+          {
+            "def": "Levél"
+          },
+          {
+            "def": "Papír"
+          },
+          {
+            "def": "List"
+          },
+          {
+            "def": "Papier"
+          },
+          {
+            "def": "Pismo"
+          },
+          {
+            "def": "Papir"
+          },
+          {
+            "def": "Litir"
+          },
+          {
+            "def": "Páipéar"
+          },
+          {
+            "def": "Carta"
+          },
+          {
+            "def": "Paper"
+          },
+          {
+            "def": "Brev"
+          },
+          {
+            "def": "Papper"
+          },
+          {
+            "def": "Επιστολή"
+          },
+          {
+            "def": "Χαρτί"
+          },
+          {
+            "def": "Letter"
+          },
+          {
+            "def": "Paper"
+          },
+          {
+            "def": "Lettera"
+          },
+          {
+            "def": "Carta"
+          },
+          {
+            "def": "Carta"
+          },
+          {
+            "def": "Papel"
+          },
+          {
+            "def": "Kiri"
+          },
+          {
+            "def": "Paber"
+          },
+          {
+            "def": "Dopis"
+          },
+          {
+            "def": "Papír"
+          },
+          {
+            "def": "Eskutitz"
+          },
+          {
+            "def": "Paper"
+          },
+          {
+            "def": "List"
+          },
+          {
+            "def": "Papier"
+          },
+          {
+            "def": "Brev"
+          },
+          {
+            "def": "Papir"
+          },
+          {
+            "def": "Scrisoare"
+          },
+          {
+            "def": "Hârtie"
+          },
+          {
+            "def": "Brief"
+          },
+          {
+            "def": "Papier"
+          },
+          {
+            "def": "Tekstualni dokumenti"
+          },
+          {
+            "def": "Papir"
+          },
+          {
+            "def": "Karta"
+          }
+        ],
+        "edmConceptPrefLabelLangAware": {
+          "de": [
+            "Papier",
+            "Brief"
+          ],
+          "ru": [
+            "Бумага",
+            "Письмо"
+          ],
+          "fi": [
+            "Paperi",
+            "Kirje"
+          ],
+          "pt": [
+            "Papel",
+            "Carta"
+          ],
+          "bg": [
+            "Хартия",
+            "Писмо"
+          ],
+          "lt": [
+            "Popierius",
+            "Laiškas"
+          ],
+          "lv": [
+            "Vēstule",
+            "Papīrs"
+          ],
+          "hr": [
+            "Tekstualni dokumenti",
+            "Papir"
+          ],
+          "fr": [
+            "Papier",
+            "Lettre"
+          ],
+          "hu": [
+            "Papír",
+            "Levél"
+          ],
+          "sk": [
+            "Papier",
+            "List"
+          ],
+          "sl": [
+            "Pismo",
+            "Papir"
+          ],
+          "ga": [
+            "Litir",
+            "Páipéar"
+          ],
+          "ca": [
+            "Paper",
+            "Carta"
+          ],
+          "sv": [
+            "Papper",
+            "Brev"
+          ],
+          "el": [
+            "Χαρτί",
+            "Επιστολή"
+          ],
+          "mt": [
+            "Karta"
+          ],
+          "en": [
+            "Letter",
+            "Paper"
+          ],
+          "it": [
+            "Lettera",
+            "Carta"
+          ],
+          "es": [
+            "Papel",
+            "Carta"
+          ],
+          "et": [
+            "Kiri",
+            "Paber"
+          ],
+          "cs": [
+            "Papír",
+            "Dopis"
+          ],
+          "eu": [
+            "Eskutitz",
+            "Paper"
+          ],
+          "pl": [
+            "Papier",
+            "List"
+          ],
+          "da": [
+            "Papir",
+            "Brev"
+          ],
+          "ro": [
+            "Scrisoare",
+            "Hârtie"
+          ],
+          "nl": [
+            "Papier",
+            "Brief"
+          ]
+        },
+        "edmDatasetName": [
+          "996_ekultura_msu"
+        ],
+        "edmIsShownAt": [
+          "https://ekultura.hr/purl/url/35427P7F2RKV6E3DIBXZXO3H6GG2PB4O"
+        ],
+        "edmIsShownBy": [
+          "https://ekultura.hr/purl/url/JOSYIMLX7X5CL36J6MPIZVOERI2UQKEF"
+        ],
+        "edmPlaceAltLabel": [
+          {
+            "def": "Zagreb"
+          },
+          {
+            "def": "Agram"
+          },
+          {
+            "def": "Republik Kroatien"
+          },
+          {
+            "def": "HR"
+          },
+          {
+            "def": "HRV"
+          },
+          {
+            "def": "Zagrebe"
+          },
+          {
+            "def": "República da Croácia"
+          },
+          {
+            "def": "Zagreb, Croatia"
+          },
+          {
+            "def": "Agram"
+          },
+          {
+            "def": "City of Zagreb"
+          },
+          {
+            "def": "KK Zagreb"
+          },
+          {
+            "def": "Republic of Croatia"
+          },
+          {
+            "def": "HR"
+          },
+          {
+            "def": "HRV"
+          },
+          {
+            "def": "CRO"
+          },
+          {
+            "def": "RH"
+          },
+          {
+            "def": "Agram"
+          },
+          {
+            "def": "Republika Hrvatska"
+          },
+          {
+            "def": "RH"
+          },
+          {
+            "def": "Agram"
+          },
+          {
+            "def": "Repubblica di Croazia"
+          },
+          {
+            "def": "Республика Хорватия"
+          },
+          {
+            "def": "Republiken Kroatien"
+          },
+          {
+            "def": "Kroatian tasavalta"
+          },
+          {
+            "def": "Република Хърватия"
+          },
+          {
+            "def": "Хърватска"
+          },
+          {
+            "def": "Repubblika tal-Kroazja"
+          },
+          {
+            "def": "HR"
+          },
+          {
+            "def": "La République de Croatie"
+          },
+          {
+            "def": "Horvát Köztársaság"
+          },
+          {
+            "def": "República de Croacia"
+          },
+          {
+            "def": "Republica de Croacia"
+          },
+          {
+            "def": "Chorvátska republika"
+          },
+          {
+            "def": "Hrvatska"
+          },
+          {
+            "def": "Republika Chorwacji"
+          },
+          {
+            "def": "Republikken Kroatien"
+          },
+          {
+            "def": "KRO"
+          },
+          {
+            "def": "Republiek Kroatië"
+          },
+          {
+            "def": "Kroatie"
+          },
+          {
+            "def": "HR"
+          },
+          {
+            "def": "HRV"
+          }
+        ],
+        "edmPlaceAltLabelLangAware": {
+          "de": [
+            "Agram",
+            "Republik Kroatien",
+            "HR",
+            "HRV"
+          ],
+          "ru": [
+            "Республика Хорватия"
+          ],
+          "sv": [
+            "Republiken Kroatien"
+          ],
+          "fi": [
+            "Kroatian tasavalta"
+          ],
+          "pt": [
+            "Zagrebe",
+            "República da Croácia"
+          ],
+          "bg": [
+            "Република Хърватия",
+            "Хърватска"
+          ],
+          "mt": [
+            "Repubblika tal-Kroazja"
+          ],
+          "en": [
+            "Zagreb, Croatia",
+            "Agram",
+            "City of Zagreb",
+            "KK Zagreb",
+            "Republic of Croatia",
+            "HR",
+            "HRV",
+            "CRO",
+            "RH"
+          ],
+          "hr": [
+            "Agram",
+            "Republika Hrvatska",
+            "RH"
+          ],
+          "it": [
+            "Agram",
+            "Repubblica di Croazia"
+          ],
+          "fr": [
+            "HR",
+            "La République de Croatie"
+          ],
+          "hu": [
+            "Horvát Köztársaság"
+          ],
+          "es": [
+            "República de Croacia",
+            "Republica de Croacia"
+          ],
+          "cs": [
+            "Zagreb"
+          ],
+          "sk": [
+            "Chorvátska republika"
+          ],
+          "pl": [
+            "Hrvatska",
+            "Republika Chorwacji"
+          ],
+          "da": [
+            "Republikken Kroatien",
+            "KRO"
+          ],
+          "nl": [
+            "Republiek Kroatië",
+            "Kroatie",
+            "HR",
+            "HRV"
+          ]
+        },
+        "edmPlaceLabel": [
+          {
+            "def": "Zagreb"
+          },
+          {
+            "def": "Kroatien"
+          },
+          {
+            "def": "Zagreb"
+          },
+          {
+            "def": "Kroatia"
+          },
+          {
+            "def": "Загреб"
+          },
+          {
+            "def": "Хорватия"
+          },
+          {
+            "def": "Zagreb"
+          },
+          {
+            "def": "Croácia"
+          },
+          {
+            "def": "Загреб"
+          },
+          {
+            "def": "Хърватия"
+          },
+          {
+            "def": "Zagrebas"
+          },
+          {
+            "def": "Kroatija"
+          },
+          {
+            "def": "Zagreb"
+          },
+          {
+            "def": "Hrvatska"
+          },
+          {
+            "def": "Zagreba"
+          },
+          {
+            "def": "Horvātija"
+          },
+          {
+            "def": "Zagreb"
+          },
+          {
+            "def": "Croatie"
+          },
+          {
+            "def": "Zágráb"
+          },
+          {
+            "def": "Horvátország"
+          },
+          {
+            "def": "Záhreb"
+          },
+          {
+            "def": "Chorvátsko"
+          },
+          {
+            "def": "Zagreb"
+          },
+          {
+            "def": "Hrvaška"
+          },
+          {
+            "def": "Ságrab"
+          },
+          {
+            "def": "An Chróit"
+          },
+          {
+            "def": "Zagreb"
+          },
+          {
+            "def": "Croàcia"
+          },
+          {
+            "def": "Zagreb"
+          },
+          {
+            "def": "Kroatien"
+          },
+          {
+            "def": "Ζάγκρεμπ"
+          },
+          {
+            "def": "Κροατία"
+          },
+          {
+            "def": "Żagreb"
+          },
+          {
+            "def": "Kroazja"
+          },
+          {
+            "def": "Zagreb"
+          },
+          {
+            "def": "Croatia"
+          },
+          {
+            "def": "Zagabria"
+          },
+          {
+            "def": "Croazia"
+          },
+          {
+            "def": "Zagreb"
+          },
+          {
+            "def": "Croacia"
+          },
+          {
+            "def": "Zagreb"
+          },
+          {
+            "def": "Horvaatia"
+          },
+          {
+            "def": "Záhřeb"
+          },
+          {
+            "def": "Chorvatsko"
+          },
+          {
+            "def": "Zagreb"
+          },
+          {
+            "def": "Kroazia"
+          },
+          {
+            "def": "Zagrzeb"
+          },
+          {
+            "def": "Chorwacja"
+          },
+          {
+            "def": "Zagreb"
+          },
+          {
+            "def": "Kroatien"
+          },
+          {
+            "def": "Zagreb"
+          },
+          {
+            "def": "Croația"
+          },
+          {
+            "def": "Zagreb"
+          },
+          {
+            "def": "Kroatië"
+          }
+        ],
+        "edmPlaceLabelLangAware": {
+          "de": [
+            "Zagreb",
+            "Kroatien"
+          ],
+          "fi": [
+            "Zagreb",
+            "Kroatia"
+          ],
+          "ru": [
+            "Загреб",
+            "Хорватия"
+          ],
+          "pt": [
+            "Zagreb",
+            "Croácia"
+          ],
+          "bg": [
+            "Загреб",
+            "Хърватия"
+          ],
+          "lt": [
+            "Zagrebas",
+            "Kroatija"
+          ],
+          "hr": [
+            "Zagreb",
+            "Hrvatska"
+          ],
+          "lv": [
+            "Zagreba",
+            "Horvātija"
+          ],
+          "fr": [
+            "Zagreb",
+            "Croatie"
+          ],
+          "hu": [
+            "Zágráb",
+            "Horvátország"
+          ],
+          "sk": [
+            "Záhreb",
+            "Chorvátsko"
+          ],
+          "sl": [
+            "Zagreb",
+            "Hrvaška"
+          ],
+          "ga": [
+            "Ságrab",
+            "An Chróit"
+          ],
+          "ca": [
+            "Zagreb",
+            "Croàcia"
+          ],
+          "sv": [
+            "Zagreb",
+            "Kroatien"
+          ],
+          "el": [
+            "Ζάγκρεμπ",
+            "Κροατία"
+          ],
+          "mt": [
+            "Żagreb",
+            "Kroazja"
+          ],
+          "en": [
+            "Zagreb",
+            "Croatia"
+          ],
+          "it": [
+            "Zagabria",
+            "Croazia"
+          ],
+          "es": [
+            "Zagreb",
+            "Croacia"
+          ],
+          "et": [
+            "Zagreb",
+            "Horvaatia"
+          ],
+          "cs": [
+            "Záhřeb",
+            "Chorvatsko"
+          ],
+          "eu": [
+            "Zagreb",
+            "Kroazia"
+          ],
+          "pl": [
+            "Zagrzeb",
+            "Chorwacja"
+          ],
+          "da": [
+            "Zagreb",
+            "Kroatien"
+          ],
+          "ro": [
+            "Zagreb",
+            "Croația"
+          ],
+          "nl": [
+            "Zagreb",
+            "Kroatië"
+          ]
+        },
+        "edmPlaceLatitude": [
+          "45.813057",
+          "45.25"
+        ],
+        "edmPlaceLongitude": [
+          "15.977222",
+          "15.466667"
+        ],
+        "edmPreview": [
+          "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fekultura.hr%2Fpurl%2Furl%2FSSKSUVEHOKYUNNXM4BJ2ZF42QVT6EJZU&type=IMAGE"
+        ],
+        "edmTimespanLabel": [
+          {
+            "def": "1969-03-31"
+          },
+          {
+            "def": "20. Jahrhundert"
+          },
+          {
+            "def": "1900-luku"
+          },
+          {
+            "def": "XX век"
+          },
+          {
+            "def": "Século XX"
+          },
+          {
+            "def": "20 век"
+          },
+          {
+            "def": "XX amžius"
+          },
+          {
+            "def": "20. stoljeće"
+          },
+          {
+            "def": "20. gadsimts"
+          },
+          {
+            "def": "XXe siècle"
+          },
+          {
+            "def": "20. század"
+          },
+          {
+            "def": "20. storočie"
+          },
+          {
+            "def": "20. stoletje"
+          },
+          {
+            "def": "20ú haois"
+          },
+          {
+            "def": "Segle XX"
+          },
+          {
+            "def": "1900-talet"
+          },
+          {
+            "def": "20ός αιώνας"
+          },
+          {
+            "def": "20th century"
+          },
+          {
+            "def": "XX secolo"
+          },
+          {
+            "def": "Siglo XX"
+          },
+          {
+            "def": "20. sajand"
+          },
+          {
+            "def": "20. století"
+          },
+          {
+            "def": "XX. mendea"
+          },
+          {
+            "def": "XX wiek"
+          },
+          {
+            "def": "20. århundrede"
+          },
+          {
+            "def": "Secolul al XX-lea"
+          },
+          {
+            "def": "20e eeuw"
+          },
+          {
+            "def": "http://www.wikidata.org/entity/Q6927"
+          },
+          {
+            "def": "http://id.loc.gov/authorities/names/sh2002012476"
+          },
+          {
+            "def": "http://id.loc.gov/authorities/names/sh85139020"
+          },
+          {
+            "def": "http://id.nlm.nih.gov/mesh/D049673"
+          },
+          {
+            "def": "https://www.freebase.com/m/089_x"
+          },
+          {
+            "def": "https://g.co/kg/m/089_x"
+          },
+          {
+            "def": "http://id.nlm.nih.gov/mesh/K01.400.504.968"
+          },
+          {
+            "def": "http://vocab.getty.edu/aat/300404514"
+          },
+          {
+            "def": "http://id.worldcat.org/fast/1159810"
+          },
+          {
+            "def": "http://dbpedia.org/resource/20th_century"
+          }
+        ],
+        "edmTimespanLabelLangAware": {
+          "de": [
+            "20. Jahrhundert"
+          ],
+          "fi": [
+            "1900-luku"
+          ],
+          "ru": [
+            "XX век"
+          ],
+          "pt": [
+            "Século XX"
+          ],
+          "bg": [
+            "20 век"
+          ],
+          "lt": [
+            "XX amžius"
+          ],
+          "hr": [
+            "20. stoljeće"
+          ],
+          "lv": [
+            "20. gadsimts"
+          ],
+          "fr": [
+            "XXe siècle"
+          ],
+          "hu": [
+            "20. század"
+          ],
+          "sk": [
+            "20. storočie"
+          ],
+          "sl": [
+            "20. stoletje"
+          ],
+          "ga": [
+            "20ú haois"
+          ],
+          "ca": [
+            "Segle XX"
+          ],
+          "sv": [
+            "1900-talet"
+          ],
+          "el": [
+            "20ός αιώνας"
+          ],
+          "en": [
+            "20th century"
+          ],
+          "it": [
+            "XX secolo"
+          ],
+          "es": [
+            "Siglo XX"
+          ],
+          "et": [
+            "20. sajand"
+          ],
+          "cs": [
+            "20. století"
+          ],
+          "eu": [
+            "XX. mendea"
+          ],
+          "zxx": [
+            "1969-03-31"
+          ],
+          "pl": [
+            "XX wiek"
+          ],
+          "da": [
+            "20. århundrede"
+          ],
+          "ro": [
+            "Secolul al XX-lea"
+          ],
+          "nl": [
+            "20e eeuw"
+          ]
+        },
+        "europeanaCollectionName": [
+          "996_ekultura_msu"
+        ],
+        "europeanaCompleteness": 10,
+        "guid": "https://www.europeana.eu/item/996/https___ekultura_hr_purl_url_35427P7F2RKV6E3DIBXZXO3H6GG2PB4O?utm_source=api&utm_medium=api&utm_campaign=whodwicueabb",
+        "id": "/996/https___ekultura_hr_purl_url_35427P7F2RKV6E3DIBXZXO3H6GG2PB4O",
+        "index": 0,
+        "language": [
+          "hr"
+        ],
+        "link": "https://api.europeana.eu/record/996/https___ekultura_hr_purl_url_35427P7F2RKV6E3DIBXZXO3H6GG2PB4O.json?wskey=whodwicueabb",
+        "previewNoDistribute": false,
+        "provider": [
+          "EKultura.hr"
+        ],
+        "rights": [
+          "http://rightsstatements.org/vocab/InC-EDU/1.0/"
+        ],
+        "score": 56.166424,
+        "timestamp": 1752072272698,
+        "timestamp_created": "2023-09-15T07:49:49.109Z",
+        "timestamp_created_epoch": 1694764189109,
+        "timestamp_update": "2023-09-15T07:49:49.109Z",
+        "timestamp_update_epoch": 1694764189109,
+        "title": [
+          "Letter from Boris Kelemen to Larry Jenkins (California Computer Products, Inc., Anaheim, California, USA)",
+          "Pismo Boris Kelemen, za: Larry Jenkins (California Computer Products, Inc., Anaheim, Kalifornija, SAD)"
+        ],
+        "type": "IMAGE",
+        "ugc": [
+          false
+        ]
+      },
+      {
+        "completeness": 7,
+        "country": [
+          "Spain"
+        ],
+        "dataProvider": [
+          "Cartographic and Geological Institute of Catalonia"
+        ],
+        "dcCreator": [
+          "La Feuille, Daniel de"
+        ],
+        "dcCreatorLangAware": {
+          "def": [
+            "La Feuille, Daniel de"
+          ]
+        },
+        "dcDescription": [
+          "1 full d'atles.- Pàgina 6.- 1 mapa, b/n. - Califòrnia dibuixada com una illa.",
+          "diverses"
+        ],
+        "dcDescriptionLangAware": {
+          "def": [
+            "1 full d'atles.- Pàgina 6.- 1 mapa, b/n. - Califòrnia dibuixada com una illa.",
+            "diverses"
+          ]
+        },
+        "dcLanguage": [
+          "fr",
+          "fra"
+        ],
+        "dcLanguageLangAware": {
+          "def": [
+            "fr",
+            "fra"
+          ]
+        },
+        "dcTitleLangAware": {
+          "def": [
+            "L'Amerique septentrionale"
+          ]
+        },
+        "edmDatasetName": [
+          "991_Cartotecadigital"
+        ],
+        "edmIsShownAt": [
+          "http://cdm21055.contentdm.oclc.org/cdm/ref/collection/fonscec/id/557"
+        ],
+        "edmIsShownBy": [
+          "https://cartotecadigital.icgc.cat/iiif/2/fonscec:557/full/730,/0/default.jpg"
+        ],
+        "edmPreview": [
+          "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcartotecadigital.icgc.cat%2Fiiif%2F2%2Ffonscec%3A557%2Ffull%2F730%2C%2F0%2Fdefault.jpg&type=IMAGE"
+        ],
+        "edmTimespanLabel": [
+          {
+            "def": "2022-02-11"
+          },
+          {
+            "def": "21. Jahrhundert"
+          },
+          {
+            "def": "2000-luku"
+          },
+          {
+            "def": "XXI век"
+          },
+          {
+            "def": "Século XXI"
+          },
+          {
+            "def": "21 век"
+          },
+          {
+            "def": "XXI amžius"
+          },
+          {
+            "def": "21. stoljeće"
+          },
+          {
+            "def": "21. gadsimts"
+          },
+          {
+            "def": "XXIe siècle"
+          },
+          {
+            "def": "21. század"
+          },
+          {
+            "def": "21. storočie"
+          },
+          {
+            "def": "21. stoletje"
+          },
+          {
+            "def": "21ú haois"
+          },
+          {
+            "def": "Segle XXI"
+          },
+          {
+            "def": "2000-talet"
+          },
+          {
+            "def": "21ος αιώνας"
+          },
+          {
+            "def": "21st century"
+          },
+          {
+            "def": "XXI secolo"
+          },
+          {
+            "def": "Siglo XXI"
+          },
+          {
+            "def": "21. sajand"
+          },
+          {
+            "def": "21. století"
+          },
+          {
+            "def": "XXI. mendea"
+          },
+          {
+            "def": "XXI wiek"
+          },
+          {
+            "def": "21. århundrede"
+          },
+          {
+            "def": "Secolul al XXI-lea"
+          },
+          {
+            "def": "21e eeuw"
+          },
+          {
+            "def": "http://www.wikidata.org/entity/Q6939"
+          },
+          {
+            "def": "http://data.culture.fr/thesaurus/resource/ark:/67717/T4-46"
+          },
+          {
+            "def": "http://id.loc.gov/authorities/names/sh85139024"
+          },
+          {
+            "def": "http://data.bnf.fr/ark:/12148/cb11930812p"
+          },
+          {
+            "def": "http://id.nlm.nih.gov/mesh/D049674"
+          },
+          {
+            "def": "https://www.freebase.com/m/08b43"
+          },
+          {
+            "def": "https://g.co/kg/m/08b43"
+          },
+          {
+            "def": "http://id.nlm.nih.gov/mesh/K01.400.504.984"
+          },
+          {
+            "def": "http://vocab.getty.edu/aat/300404515"
+          },
+          {
+            "def": "http://id.worldcat.org/fast/1159816"
+          },
+          {
+            "def": "http://babelnet.org/rdf/s01157225n"
+          },
+          {
+            "def": "http://dbpedia.org/resource/21st_century"
+          }
+        ],
+        "edmTimespanLabelLangAware": {
+          "de": [
+            "21. Jahrhundert"
+          ],
+          "fi": [
+            "2000-luku"
+          ],
+          "ru": [
+            "XXI век"
+          ],
+          "pt": [
+            "Século XXI"
+          ],
+          "bg": [
+            "21 век"
+          ],
+          "lt": [
+            "XXI amžius"
+          ],
+          "hr": [
+            "21. stoljeće"
+          ],
+          "lv": [
+            "21. gadsimts"
+          ],
+          "fr": [
+            "XXIe siècle"
+          ],
+          "hu": [
+            "21. század"
+          ],
+          "sk": [
+            "21. storočie"
+          ],
+          "sl": [
+            "21. stoletje"
+          ],
+          "ga": [
+            "21ú haois"
+          ],
+          "ca": [
+            "Segle XXI"
+          ],
+          "sv": [
+            "2000-talet"
+          ],
+          "el": [
+            "21ος αιώνας"
+          ],
+          "en": [
+            "21st century"
+          ],
+          "it": [
+            "XXI secolo"
+          ],
+          "es": [
+            "Siglo XXI"
+          ],
+          "et": [
+            "21. sajand"
+          ],
+          "cs": [
+            "21. století"
+          ],
+          "eu": [
+            "XXI. mendea"
+          ],
+          "zxx": [
+            "2022-02-11"
+          ],
+          "pl": [
+            "XXI wiek"
+          ],
+          "da": [
+            "21. århundrede"
+          ],
+          "ro": [
+            "Secolul al XXI-lea"
+          ],
+          "nl": [
+            "21e eeuw"
+          ]
+        },
+        "europeanaCollectionName": [
+          "991_Cartotecadigital"
+        ],
+        "europeanaCompleteness": 7,
+        "guid": "https://www.europeana.eu/item/991/https___catalonica_bnc_cat_catalonicahub_lod_oai_cdm21055_contentdm_oclc_org_fonscec____557_ent0?utm_source=api&utm_medium=api&utm_campaign=whodwicueabb",
+        "id": "/991/https___catalonica_bnc_cat_catalonicahub_lod_oai_cdm21055_contentdm_oclc_org_fonscec____557_ent0",
+        "index": 0,
+        "language": [
+          "ca"
+        ],
+        "link": "https://api.europeana.eu/record/991/https___catalonica_bnc_cat_catalonicahub_lod_oai_cdm21055_contentdm_oclc_org_fonscec____557_ent0.json?wskey=whodwicueabb",
+        "previewNoDistribute": false,
+        "provider": [
+          "Catalònica"
+        ],
+        "rights": [
+          "http://creativecommons.org/publicdomain/mark/1.0/"
+        ],
+        "score": 12.949897,
+        "timestamp": 1752052258278,
+        "timestamp_created": "2023-10-31T11:14:29.072Z",
+        "timestamp_created_epoch": 1698750869072,
+        "timestamp_update": "2025-02-10T11:57:58.342Z",
+        "timestamp_update_epoch": 1739188678342,
+        "title": [
+          "L'Amerique septentrionale"
+        ],
+        "type": "IMAGE",
+        "ugc": [
+          false
+        ]
+      },
+      {
+        "completeness": 10,
+        "country": [
+          "Spain"
+        ],
+        "dataProvider": [
+          "Cartographic and Geological Institute of Catalonia"
+        ],
+        "dcDescription": [
+          "1 mapa : b/n, verso i reverso. - Finestres de Los Ángeles i San Francisco. A la part inferior, localització i any de fundació de les missions de Califòrnia. Al marge dret consta: The fiesta of the dawn of gold and California state fair - Sacramento September 3rd to 10th. A la part posterior horaris ferrocarril.",
+          "41 x 23 cm"
+        ],
+        "dcDescriptionLangAware": {
+          "def": [
+            "1 mapa : b/n, verso i reverso. - Finestres de Los Ángeles i San Francisco. A la part inferior, localització i any de fundació de les missions de Califòrnia. Al marge dret consta: The fiesta of the dawn of gold and California state fair - Sacramento September 3rd to 10th. A la part posterior horaris ferrocarril.",
+            "41 x 23 cm"
+          ]
+        },
+        "dcTitleLangAware": {
+          "def": [
+            "California Lines: Southern Pacific"
+          ]
+        },
+        "edmDatasetName": [
+          "991_Cartotecadigital"
+        ],
+        "edmIsShownAt": [
+          "http://cdm21055.contentdm.oclc.org/cdm/ref/collection/externs/id/423"
+        ],
+        "edmIsShownBy": [
+          "https://cartotecadigital.icgc.cat/iiif/2/externs:403/full/730,/0/default.jpg"
+        ],
+        "edmPreview": [
+          "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcartotecadigital.icgc.cat%2Fiiif%2F2%2Fexterns%3A403%2Ffull%2F730%2C%2F0%2Fdefault.jpg&type=IMAGE"
+        ],
+        "edmTimespanLabel": [
+          {
+            "def": "2018-12-19"
+          },
+          {
+            "def": "1911"
+          },
+          {
+            "def": "21. Jahrhundert"
+          },
+          {
+            "def": "20. Jahrhundert"
+          },
+          {
+            "def": "2000-luku"
+          },
+          {
+            "def": "1900-luku"
+          },
+          {
+            "def": "XXI век"
+          },
+          {
+            "def": "XX век"
+          },
+          {
+            "def": "Século XXI"
+          },
+          {
+            "def": "Século XX"
+          },
+          {
+            "def": "21 век"
+          },
+          {
+            "def": "20 век"
+          },
+          {
+            "def": "XXI amžius"
+          },
+          {
+            "def": "XX amžius"
+          },
+          {
+            "def": "21. stoljeće"
+          },
+          {
+            "def": "20. stoljeće"
+          },
+          {
+            "def": "21. gadsimts"
+          },
+          {
+            "def": "20. gadsimts"
+          },
+          {
+            "def": "XXIe siècle"
+          },
+          {
+            "def": "XXe siècle"
+          },
+          {
+            "def": "21. század"
+          },
+          {
+            "def": "20. század"
+          },
+          {
+            "def": "21. storočie"
+          },
+          {
+            "def": "20. storočie"
+          },
+          {
+            "def": "21. stoletje"
+          },
+          {
+            "def": "20. stoletje"
+          },
+          {
+            "def": "21ú haois"
+          },
+          {
+            "def": "20ú haois"
+          },
+          {
+            "def": "Segle XXI"
+          },
+          {
+            "def": "Segle XX"
+          },
+          {
+            "def": "2000-talet"
+          },
+          {
+            "def": "1900-talet"
+          },
+          {
+            "def": "21ος αιώνας"
+          },
+          {
+            "def": "20ός αιώνας"
+          },
+          {
+            "def": "21st century"
+          },
+          {
+            "def": "20th century"
+          },
+          {
+            "def": "XXI secolo"
+          },
+          {
+            "def": "XX secolo"
+          },
+          {
+            "def": "Siglo XXI"
+          },
+          {
+            "def": "Siglo XX"
+          },
+          {
+            "def": "21. sajand"
+          },
+          {
+            "def": "20. sajand"
+          },
+          {
+            "def": "21. století"
+          },
+          {
+            "def": "20. století"
+          },
+          {
+            "def": "XXI. mendea"
+          },
+          {
+            "def": "XX. mendea"
+          },
+          {
+            "def": "XXI wiek"
+          },
+          {
+            "def": "XX wiek"
+          },
+          {
+            "def": "21. århundrede"
+          },
+          {
+            "def": "20. århundrede"
+          },
+          {
+            "def": "Secolul al XXI-lea"
+          },
+          {
+            "def": "Secolul al XX-lea"
+          },
+          {
+            "def": "21e eeuw"
+          },
+          {
+            "def": "20e eeuw"
+          },
+          {
+            "def": "http://www.wikidata.org/entity/Q6939"
+          },
+          {
+            "def": "http://data.culture.fr/thesaurus/resource/ark:/67717/T4-46"
+          },
+          {
+            "def": "http://id.loc.gov/authorities/names/sh85139024"
+          },
+          {
+            "def": "http://data.bnf.fr/ark:/12148/cb11930812p"
+          },
+          {
+            "def": "http://id.nlm.nih.gov/mesh/D049674"
+          },
+          {
+            "def": "https://www.freebase.com/m/08b43"
+          },
+          {
+            "def": "https://g.co/kg/m/08b43"
+          },
+          {
+            "def": "http://id.nlm.nih.gov/mesh/K01.400.504.984"
+          },
+          {
+            "def": "http://vocab.getty.edu/aat/300404515"
+          },
+          {
+            "def": "http://id.worldcat.org/fast/1159816"
+          },
+          {
+            "def": "http://babelnet.org/rdf/s01157225n"
+          },
+          {
+            "def": "http://dbpedia.org/resource/21st_century"
+          },
+          {
+            "def": "http://www.wikidata.org/entity/Q6927"
+          },
+          {
+            "def": "http://id.loc.gov/authorities/names/sh2002012476"
+          },
+          {
+            "def": "http://id.loc.gov/authorities/names/sh85139020"
+          },
+          {
+            "def": "http://id.nlm.nih.gov/mesh/D049673"
+          },
+          {
+            "def": "https://www.freebase.com/m/089_x"
+          },
+          {
+            "def": "https://g.co/kg/m/089_x"
+          },
+          {
+            "def": "http://id.nlm.nih.gov/mesh/K01.400.504.968"
+          },
+          {
+            "def": "http://vocab.getty.edu/aat/300404514"
+          },
+          {
+            "def": "http://id.worldcat.org/fast/1159810"
+          },
+          {
+            "def": "http://dbpedia.org/resource/20th_century"
+          }
+        ],
+        "edmTimespanLabelLangAware": {
+          "de": [
+            "21. Jahrhundert",
+            "20. Jahrhundert"
+          ],
+          "fi": [
+            "2000-luku",
+            "1900-luku"
+          ],
+          "ru": [
+            "XXI век",
+            "XX век"
+          ],
+          "pt": [
+            "Século XXI",
+            "Século XX"
+          ],
+          "bg": [
+            "21 век",
+            "20 век"
+          ],
+          "lt": [
+            "XXI amžius",
+            "XX amžius"
+          ],
+          "hr": [
+            "21. stoljeće",
+            "20. stoljeće"
+          ],
+          "lv": [
+            "21. gadsimts",
+            "20. gadsimts"
+          ],
+          "fr": [
+            "XXIe siècle",
+            "XXe siècle"
+          ],
+          "hu": [
+            "21. század",
+            "20. század"
+          ],
+          "sk": [
+            "21. storočie",
+            "20. storočie"
+          ],
+          "sl": [
+            "21. stoletje",
+            "20. stoletje"
+          ],
+          "ga": [
+            "21ú haois",
+            "20ú haois"
+          ],
+          "ca": [
+            "Segle XXI",
+            "Segle XX"
+          ],
+          "sv": [
+            "2000-talet",
+            "1900-talet"
+          ],
+          "el": [
+            "21ος αιώνας",
+            "20ός αιώνας"
+          ],
+          "en": [
+            "21st century",
+            "20th century"
+          ],
+          "it": [
+            "XXI secolo",
+            "XX secolo"
+          ],
+          "es": [
+            "Siglo XXI",
+            "Siglo XX"
+          ],
+          "et": [
+            "21. sajand",
+            "20. sajand"
+          ],
+          "cs": [
+            "21. století",
+            "20. století"
+          ],
+          "eu": [
+            "XXI. mendea",
+            "XX. mendea"
+          ],
+          "zxx": [
+            "2018-12-19",
+            "1911"
+          ],
+          "pl": [
+            "XXI wiek",
+            "XX wiek"
+          ],
+          "da": [
+            "21. århundrede",
+            "20. århundrede"
+          ],
+          "ro": [
+            "Secolul al XXI-lea",
+            "Secolul al XX-lea"
+          ],
+          "nl": [
+            "21e eeuw",
+            "20e eeuw"
+          ]
+        },
+        "europeanaCollectionName": [
+          "991_Cartotecadigital"
+        ],
+        "europeanaCompleteness": 10,
+        "guid": "https://www.europeana.eu/item/991/https___catalonica_bnc_cat_catalonicahub_lod_oai_cdm21055_contentdm_oclc_org_externs____423_ent0?utm_source=api&utm_medium=api&utm_campaign=whodwicueabb",
+        "id": "/991/https___catalonica_bnc_cat_catalonicahub_lod_oai_cdm21055_contentdm_oclc_org_externs____423_ent0",
+        "index": 0,
+        "language": [
+          "ca"
+        ],
+        "link": "https://api.europeana.eu/record/991/https___catalonica_bnc_cat_catalonicahub_lod_oai_cdm21055_contentdm_oclc_org_externs____423_ent0.json?wskey=whodwicueabb",
+        "previewNoDistribute": false,
+        "provider": [
+          "Catalònica"
+        ],
+        "rights": [
+          "http://creativecommons.org/publicdomain/mark/1.0/"
+        ],
+        "score": 65.66648,
+        "timestamp": 1752052260155,
+        "timestamp_created": "2023-10-31T11:14:29.072Z",
+        "timestamp_created_epoch": 1698750869072,
+        "timestamp_update": "2025-02-10T11:57:58.342Z",
+        "timestamp_update_epoch": 1739188678342,
+        "title": [
+          "California Lines: Southern Pacific"
+        ],
+        "type": "IMAGE",
+        "ugc": [
+          false
+        ],
+        "year": [
+          "1911"
+        ]
+      },
+      {
+        "completeness": 9,
+        "country": [
+          "Spain"
+        ],
+        "dataProvider": [
+          "Cartographic and Geological Institute of Catalonia"
+        ],
+        "dcCreator": [
+          "Seismological Society of America"
+        ],
+        "dcCreatorLangAware": {
+          "def": [
+            "Seismological Society of America"
+          ]
+        },
+        "dcDescription": [
+          "1 mapa en 4 seccions : color. -La imatge és una composició digital de les seccions.",
+          "1:506 880",
+          "110 x 94 cm cada full, pleg. 39 x 27 cm"
+        ],
+        "dcDescriptionLangAware": {
+          "def": [
+            "1 mapa en 4 seccions : color. -La imatge és una composició digital de les seccions.",
+            "1:506 880",
+            "110 x 94 cm cada full, pleg. 39 x 27 cm"
+          ]
+        },
+        "dcTitleLangAware": {
+          "def": [
+            "Fault map of the State of California"
+          ]
+        },
+        "edmDatasetName": [
+          "991_Cartotecadigital"
+        ],
+        "edmIsShownAt": [
+          "http://cdm21055.contentdm.oclc.org/cdm/ref/collection/externs/id/417"
+        ],
+        "edmIsShownBy": [
+          "https://cartotecadigital.icgc.cat/iiif/2/externs:417/full/730,/0/default.jpg"
+        ],
+        "edmPreview": [
+          "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcartotecadigital.icgc.cat%2Fiiif%2F2%2Fexterns%3A417%2Ffull%2F730%2C%2F0%2Fdefault.jpg&type=IMAGE"
+        ],
+        "edmTimespanLabel": [
+          {
+            "def": "2018-12-19"
+          },
+          {
+            "def": "1922"
+          },
+          {
+            "def": "21. Jahrhundert"
+          },
+          {
+            "def": "20. Jahrhundert"
+          },
+          {
+            "def": "2000-luku"
+          },
+          {
+            "def": "1900-luku"
+          },
+          {
+            "def": "XXI век"
+          },
+          {
+            "def": "XX век"
+          },
+          {
+            "def": "Século XXI"
+          },
+          {
+            "def": "Século XX"
+          },
+          {
+            "def": "21 век"
+          },
+          {
+            "def": "20 век"
+          },
+          {
+            "def": "XXI amžius"
+          },
+          {
+            "def": "XX amžius"
+          },
+          {
+            "def": "21. stoljeće"
+          },
+          {
+            "def": "20. stoljeće"
+          },
+          {
+            "def": "21. gadsimts"
+          },
+          {
+            "def": "20. gadsimts"
+          },
+          {
+            "def": "XXIe siècle"
+          },
+          {
+            "def": "XXe siècle"
+          },
+          {
+            "def": "21. század"
+          },
+          {
+            "def": "20. század"
+          },
+          {
+            "def": "21. storočie"
+          },
+          {
+            "def": "20. storočie"
+          },
+          {
+            "def": "21. stoletje"
+          },
+          {
+            "def": "20. stoletje"
+          },
+          {
+            "def": "21ú haois"
+          },
+          {
+            "def": "20ú haois"
+          },
+          {
+            "def": "Segle XXI"
+          },
+          {
+            "def": "Segle XX"
+          },
+          {
+            "def": "2000-talet"
+          },
+          {
+            "def": "1900-talet"
+          },
+          {
+            "def": "21ος αιώνας"
+          },
+          {
+            "def": "20ός αιώνας"
+          },
+          {
+            "def": "21st century"
+          },
+          {
+            "def": "20th century"
+          },
+          {
+            "def": "XXI secolo"
+          },
+          {
+            "def": "XX secolo"
+          },
+          {
+            "def": "Siglo XXI"
+          },
+          {
+            "def": "Siglo XX"
+          },
+          {
+            "def": "21. sajand"
+          },
+          {
+            "def": "20. sajand"
+          },
+          {
+            "def": "21. století"
+          },
+          {
+            "def": "20. století"
+          },
+          {
+            "def": "XXI. mendea"
+          },
+          {
+            "def": "XX. mendea"
+          },
+          {
+            "def": "XXI wiek"
+          },
+          {
+            "def": "XX wiek"
+          },
+          {
+            "def": "21. århundrede"
+          },
+          {
+            "def": "20. århundrede"
+          },
+          {
+            "def": "Secolul al XXI-lea"
+          },
+          {
+            "def": "Secolul al XX-lea"
+          },
+          {
+            "def": "21e eeuw"
+          },
+          {
+            "def": "20e eeuw"
+          },
+          {
+            "def": "http://www.wikidata.org/entity/Q6939"
+          },
+          {
+            "def": "http://data.culture.fr/thesaurus/resource/ark:/67717/T4-46"
+          },
+          {
+            "def": "http://id.loc.gov/authorities/names/sh85139024"
+          },
+          {
+            "def": "http://data.bnf.fr/ark:/12148/cb11930812p"
+          },
+          {
+            "def": "http://id.nlm.nih.gov/mesh/D049674"
+          },
+          {
+            "def": "https://www.freebase.com/m/08b43"
+          },
+          {
+            "def": "https://g.co/kg/m/08b43"
+          },
+          {
+            "def": "http://id.nlm.nih.gov/mesh/K01.400.504.984"
+          },
+          {
+            "def": "http://vocab.getty.edu/aat/300404515"
+          },
+          {
+            "def": "http://id.worldcat.org/fast/1159816"
+          },
+          {
+            "def": "http://babelnet.org/rdf/s01157225n"
+          },
+          {
+            "def": "http://dbpedia.org/resource/21st_century"
+          },
+          {
+            "def": "http://www.wikidata.org/entity/Q6927"
+          },
+          {
+            "def": "http://id.loc.gov/authorities/names/sh2002012476"
+          },
+          {
+            "def": "http://id.loc.gov/authorities/names/sh85139020"
+          },
+          {
+            "def": "http://id.nlm.nih.gov/mesh/D049673"
+          },
+          {
+            "def": "https://www.freebase.com/m/089_x"
+          },
+          {
+            "def": "https://g.co/kg/m/089_x"
+          },
+          {
+            "def": "http://id.nlm.nih.gov/mesh/K01.400.504.968"
+          },
+          {
+            "def": "http://vocab.getty.edu/aat/300404514"
+          },
+          {
+            "def": "http://id.worldcat.org/fast/1159810"
+          },
+          {
+            "def": "http://dbpedia.org/resource/20th_century"
+          }
+        ],
+        "edmTimespanLabelLangAware": {
+          "de": [
+            "21. Jahrhundert",
+            "20. Jahrhundert"
+          ],
+          "fi": [
+            "2000-luku",
+            "1900-luku"
+          ],
+          "ru": [
+            "XXI век",
+            "XX век"
+          ],
+          "pt": [
+            "Século XXI",
+            "Século XX"
+          ],
+          "bg": [
+            "21 век",
+            "20 век"
+          ],
+          "lt": [
+            "XXI amžius",
+            "XX amžius"
+          ],
+          "hr": [
+            "21. stoljeće",
+            "20. stoljeće"
+          ],
+          "lv": [
+            "21. gadsimts",
+            "20. gadsimts"
+          ],
+          "fr": [
+            "XXIe siècle",
+            "XXe siècle"
+          ],
+          "hu": [
+            "21. század",
+            "20. század"
+          ],
+          "sk": [
+            "21. storočie",
+            "20. storočie"
+          ],
+          "sl": [
+            "21. stoletje",
+            "20. stoletje"
+          ],
+          "ga": [
+            "21ú haois",
+            "20ú haois"
+          ],
+          "ca": [
+            "Segle XXI",
+            "Segle XX"
+          ],
+          "sv": [
+            "2000-talet",
+            "1900-talet"
+          ],
+          "el": [
+            "21ος αιώνας",
+            "20ός αιώνας"
+          ],
+          "en": [
+            "21st century",
+            "20th century"
+          ],
+          "it": [
+            "XXI secolo",
+            "XX secolo"
+          ],
+          "es": [
+            "Siglo XXI",
+            "Siglo XX"
+          ],
+          "et": [
+            "21. sajand",
+            "20. sajand"
+          ],
+          "cs": [
+            "21. století",
+            "20. století"
+          ],
+          "eu": [
+            "XXI. mendea",
+            "XX. mendea"
+          ],
+          "zxx": [
+            "2018-12-19",
+            "1922"
+          ],
+          "pl": [
+            "XXI wiek",
+            "XX wiek"
+          ],
+          "da": [
+            "21. århundrede",
+            "20. århundrede"
+          ],
+          "ro": [
+            "Secolul al XXI-lea",
+            "Secolul al XX-lea"
+          ],
+          "nl": [
+            "21e eeuw",
+            "20e eeuw"
+          ]
+        },
+        "europeanaCollectionName": [
+          "991_Cartotecadigital"
+        ],
+        "europeanaCompleteness": 9,
+        "guid": "https://www.europeana.eu/item/991/https___catalonica_bnc_cat_catalonicahub_lod_oai_cdm21055_contentdm_oclc_org_externs____417_ent0?utm_source=api&utm_medium=api&utm_campaign=whodwicueabb",
+        "id": "/991/https___catalonica_bnc_cat_catalonicahub_lod_oai_cdm21055_contentdm_oclc_org_externs____417_ent0",
+        "index": 0,
+        "language": [
+          "ca"
+        ],
+        "link": "https://api.europeana.eu/record/991/https___catalonica_bnc_cat_catalonicahub_lod_oai_cdm21055_contentdm_oclc_org_externs____417_ent0.json?wskey=whodwicueabb",
+        "previewNoDistribute": false,
+        "provider": [
+          "Catalònica"
+        ],
+        "rights": [
+          "http://rightsstatements.org/vocab/InC/1.0/"
+        ],
+        "score": 56.134506,
+        "timestamp": 1752052259503,
+        "timestamp_created": "2023-10-31T11:14:29.072Z",
+        "timestamp_created_epoch": 1698750869072,
+        "timestamp_update": "2025-02-10T11:57:58.342Z",
+        "timestamp_update_epoch": 1739188678342,
+        "title": [
+          "Fault map of the State of California"
+        ],
+        "type": "IMAGE",
+        "ugc": [
+          false
+        ],
+        "year": [
+          "1922"
+        ]
+      },
+      {
+        "completeness": 8,
+        "country": [
+          "Spain"
+        ],
+        "dataProvider": [
+          "Cartographic and Geological Institute of Catalonia"
+        ],
+        "dcDescription": [
+          "1 revers d'un mapa : b/n. - Reverso d'un mapa amb els horaris del ferrocarril",
+          "41 x 23 cm"
+        ],
+        "dcDescriptionLangAware": {
+          "def": [
+            "1 revers d'un mapa : b/n. - Reverso d'un mapa amb els horaris del ferrocarril",
+            "41 x 23 cm"
+          ]
+        },
+        "dcTitleLangAware": {
+          "def": [
+            "California Lines: Southern Pacific [reverso: horaris]"
+          ]
+        },
+        "edmDatasetName": [
+          "991_Cartotecadigital"
+        ],
+        "edmIsShownAt": [
+          "http://cdm21055.contentdm.oclc.org/cdm/ref/collection/externs/id/404"
+        ],
+        "edmIsShownBy": [
+          "https://cartotecadigital.icgc.cat/iiif/2/externs:404/full/730,/0/default.jpg"
+        ],
+        "edmPreview": [
+          "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcartotecadigital.icgc.cat%2Fiiif%2F2%2Fexterns%3A404%2Ffull%2F730%2C%2F0%2Fdefault.jpg&type=IMAGE"
+        ],
+        "edmTimespanLabel": [
+          {
+            "def": "2018-12-19"
+          },
+          {
+            "def": "1911"
+          },
+          {
+            "def": "21. Jahrhundert"
+          },
+          {
+            "def": "20. Jahrhundert"
+          },
+          {
+            "def": "2000-luku"
+          },
+          {
+            "def": "1900-luku"
+          },
+          {
+            "def": "XXI век"
+          },
+          {
+            "def": "XX век"
+          },
+          {
+            "def": "Século XXI"
+          },
+          {
+            "def": "Século XX"
+          },
+          {
+            "def": "21 век"
+          },
+          {
+            "def": "20 век"
+          },
+          {
+            "def": "XXI amžius"
+          },
+          {
+            "def": "XX amžius"
+          },
+          {
+            "def": "21. stoljeće"
+          },
+          {
+            "def": "20. stoljeće"
+          },
+          {
+            "def": "21. gadsimts"
+          },
+          {
+            "def": "20. gadsimts"
+          },
+          {
+            "def": "XXIe siècle"
+          },
+          {
+            "def": "XXe siècle"
+          },
+          {
+            "def": "21. század"
+          },
+          {
+            "def": "20. század"
+          },
+          {
+            "def": "21. storočie"
+          },
+          {
+            "def": "20. storočie"
+          },
+          {
+            "def": "21. stoletje"
+          },
+          {
+            "def": "20. stoletje"
+          },
+          {
+            "def": "21ú haois"
+          },
+          {
+            "def": "20ú haois"
+          },
+          {
+            "def": "Segle XXI"
+          },
+          {
+            "def": "Segle XX"
+          },
+          {
+            "def": "2000-talet"
+          },
+          {
+            "def": "1900-talet"
+          },
+          {
+            "def": "21ος αιώνας"
+          },
+          {
+            "def": "20ός αιώνας"
+          },
+          {
+            "def": "21st century"
+          },
+          {
+            "def": "20th century"
+          },
+          {
+            "def": "XXI secolo"
+          },
+          {
+            "def": "XX secolo"
+          },
+          {
+            "def": "Siglo XXI"
+          },
+          {
+            "def": "Siglo XX"
+          },
+          {
+            "def": "21. sajand"
+          },
+          {
+            "def": "20. sajand"
+          },
+          {
+            "def": "21. století"
+          },
+          {
+            "def": "20. století"
+          },
+          {
+            "def": "XXI. mendea"
+          },
+          {
+            "def": "XX. mendea"
+          },
+          {
+            "def": "XXI wiek"
+          },
+          {
+            "def": "XX wiek"
+          },
+          {
+            "def": "21. århundrede"
+          },
+          {
+            "def": "20. århundrede"
+          },
+          {
+            "def": "Secolul al XXI-lea"
+          },
+          {
+            "def": "Secolul al XX-lea"
+          },
+          {
+            "def": "21e eeuw"
+          },
+          {
+            "def": "20e eeuw"
+          },
+          {
+            "def": "http://www.wikidata.org/entity/Q6939"
+          },
+          {
+            "def": "http://data.culture.fr/thesaurus/resource/ark:/67717/T4-46"
+          },
+          {
+            "def": "http://id.loc.gov/authorities/names/sh85139024"
+          },
+          {
+            "def": "http://data.bnf.fr/ark:/12148/cb11930812p"
+          },
+          {
+            "def": "http://id.nlm.nih.gov/mesh/D049674"
+          },
+          {
+            "def": "https://www.freebase.com/m/08b43"
+          },
+          {
+            "def": "https://g.co/kg/m/08b43"
+          },
+          {
+            "def": "http://id.nlm.nih.gov/mesh/K01.400.504.984"
+          },
+          {
+            "def": "http://vocab.getty.edu/aat/300404515"
+          },
+          {
+            "def": "http://id.worldcat.org/fast/1159816"
+          },
+          {
+            "def": "http://babelnet.org/rdf/s01157225n"
+          },
+          {
+            "def": "http://dbpedia.org/resource/21st_century"
+          },
+          {
+            "def": "http://www.wikidata.org/entity/Q6927"
+          },
+          {
+            "def": "http://id.loc.gov/authorities/names/sh2002012476"
+          },
+          {
+            "def": "http://id.loc.gov/authorities/names/sh85139020"
+          },
+          {
+            "def": "http://id.nlm.nih.gov/mesh/D049673"
+          },
+          {
+            "def": "https://www.freebase.com/m/089_x"
+          },
+          {
+            "def": "https://g.co/kg/m/089_x"
+          },
+          {
+            "def": "http://id.nlm.nih.gov/mesh/K01.400.504.968"
+          },
+          {
+            "def": "http://vocab.getty.edu/aat/300404514"
+          },
+          {
+            "def": "http://id.worldcat.org/fast/1159810"
+          },
+          {
+            "def": "http://dbpedia.org/resource/20th_century"
+          }
+        ],
+        "edmTimespanLabelLangAware": {
+          "de": [
+            "21. Jahrhundert",
+            "20. Jahrhundert"
+          ],
+          "fi": [
+            "2000-luku",
+            "1900-luku"
+          ],
+          "ru": [
+            "XXI век",
+            "XX век"
+          ],
+          "pt": [
+            "Século XXI",
+            "Século XX"
+          ],
+          "bg": [
+            "21 век",
+            "20 век"
+          ],
+          "lt": [
+            "XXI amžius",
+            "XX amžius"
+          ],
+          "hr": [
+            "21. stoljeće",
+            "20. stoljeće"
+          ],
+          "lv": [
+            "21. gadsimts",
+            "20. gadsimts"
+          ],
+          "fr": [
+            "XXIe siècle",
+            "XXe siècle"
+          ],
+          "hu": [
+            "21. század",
+            "20. század"
+          ],
+          "sk": [
+            "21. storočie",
+            "20. storočie"
+          ],
+          "sl": [
+            "21. stoletje",
+            "20. stoletje"
+          ],
+          "ga": [
+            "21ú haois",
+            "20ú haois"
+          ],
+          "ca": [
+            "Segle XXI",
+            "Segle XX"
+          ],
+          "sv": [
+            "2000-talet",
+            "1900-talet"
+          ],
+          "el": [
+            "21ος αιώνας",
+            "20ός αιώνας"
+          ],
+          "en": [
+            "21st century",
+            "20th century"
+          ],
+          "it": [
+            "XXI secolo",
+            "XX secolo"
+          ],
+          "es": [
+            "Siglo XXI",
+            "Siglo XX"
+          ],
+          "et": [
+            "21. sajand",
+            "20. sajand"
+          ],
+          "cs": [
+            "21. století",
+            "20. století"
+          ],
+          "eu": [
+            "XXI. mendea",
+            "XX. mendea"
+          ],
+          "zxx": [
+            "2018-12-19",
+            "1911"
+          ],
+          "pl": [
+            "XXI wiek",
+            "XX wiek"
+          ],
+          "da": [
+            "21. århundrede",
+            "20. århundrede"
+          ],
+          "ro": [
+            "Secolul al XXI-lea",
+            "Secolul al XX-lea"
+          ],
+          "nl": [
+            "21e eeuw",
+            "20e eeuw"
+          ]
+        },
+        "europeanaCollectionName": [
+          "991_Cartotecadigital"
+        ],
+        "europeanaCompleteness": 8,
+        "guid": "https://www.europeana.eu/item/991/https___catalonica_bnc_cat_catalonicahub_lod_oai_cdm21055_contentdm_oclc_org_externs____404_ent0?utm_source=api&utm_medium=api&utm_campaign=whodwicueabb",
+        "id": "/991/https___catalonica_bnc_cat_catalonicahub_lod_oai_cdm21055_contentdm_oclc_org_externs____404_ent0",
+        "index": 0,
+        "language": [
+          "ca"
+        ],
+        "link": "https://api.europeana.eu/record/991/https___catalonica_bnc_cat_catalonicahub_lod_oai_cdm21055_contentdm_oclc_org_externs____404_ent0.json?wskey=whodwicueabb",
+        "previewNoDistribute": false,
+        "provider": [
+          "Catalònica"
+        ],
+        "rights": [
+          "http://creativecommons.org/publicdomain/mark/1.0/"
+        ],
+        "score": 58.68009,
+        "timestamp": 1752052258519,
+        "timestamp_created": "2023-10-31T11:14:29.072Z",
+        "timestamp_created_epoch": 1698750869072,
+        "timestamp_update": "2025-02-10T11:57:58.342Z",
+        "timestamp_update_epoch": 1739188678342,
+        "title": [
+          "California Lines: Southern Pacific [reverso: horaris]"
+        ],
+        "type": "IMAGE",
+        "ugc": [
+          false
+        ],
+        "year": [
+          "1911"
+        ]
+      }
+    ],
+    "url": "https://api.europeana.eu/record/v2/search.json?wskey=whodwicueabb&query=California&qf=TYPE%3AIMAGE&media=True&thumbnail=True&sort=europeana_id&rows=10&cursor=%2A",
+    "params": {
+      "wskey": "whodwicueabb",
+      "query": "California",
+      "qf": "TYPE:IMAGE",
+      "reusability": null,
+      "media": true,
+      "thumbnail": true,
+      "landingpage": null,
+      "colourpalette": null,
+      "theme": null,
+      "sort": "europeana_id",
+      "profile": null,
+      "rows": 10,
+      "cursor": "*",
+      "callback": null,
+      "facet": null
+    }
+  }
+}
